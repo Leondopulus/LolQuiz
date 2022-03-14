@@ -1,0 +1,4093 @@
+[
+  {
+    "id": 1001,
+    "name": "Ботинки",
+    "price": 300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1001.png?v1",
+    "stats": [
+      {
+        "name": "скорости передвижения",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1004,
+    "name": "Амулет фей",
+    "price": 250,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1004.png?v1",
+    "stats": [
+      {
+        "name": "базового восстановления маны",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1006,
+    "name": "Заживляющая бусина",
+    "price": 300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1006.png?v1",
+    "stats": [
+      {
+        "name": "базового восстановления здоровья",
+        "value": "100%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1011,
+    "name": "Пояс великана",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1011.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1018,
+    "name": "Плащ ловкости",
+    "price": 600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1018.png?v1",
+    "stats": [
+      {
+        "name": "шанса критического удара",
+        "value": "15%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1026,
+    "name": "Разящий жезл",
+    "price": 850,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1026.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1027,
+    "name": "Сапфировый кристалл",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1027.png?v1",
+    "stats": [
+      {
+        "name": "маны",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1028,
+    "name": "Рубиновый кристалл",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1028.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1029,
+    "name": "Тканевая броня",
+    "price": 300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1029.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1031,
+    "name": "Кольчуга",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1031.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1033,
+    "name": "Антимагическая мантия",
+    "price": 450,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1033.png?v1",
+    "stats": [
+      {
+        "name": "сопротивления магии",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1035,
+    "name": "Огненный нож",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1035.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Выгорание:\n\u003c/div\u003e нанося урон монстрам, вы поджигаете их и наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (60 + 30% от силы умений + 5% от дополнительной силы атаки + 2% от дополнительного здоровья) магического урона\n\u003c/div\u003e в течение 5 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Вызывающий путь:\n\u003c/div\u003e использовав Кару 5 раз, вы поглощаете этот предмет и получаете \n\u003cdiv class\u003d\"custom attention\"\u003e\n Вызывающую кару\n\u003c/div\u003e, которая наносит больше урона монстрам. Вызывающая кара помечает чемпионов на 4 сек. В течение этого времени вы наносите им \n\u003cdiv class\u003d\"custom truedamage\"\u003e\n 48-125 (в зависимости от уровня)\n\u003c/div\u003e дополнительного чистого урона в течение 2.5 сек. при попадании и получаете от них на 20% меньше урона.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Охотник:\n\u003c/div\u003e за убийство больших монстров вы получаете дополнительный опыт.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восполнение:\n\u003c/div\u003e восстанавливает до 8-18 (в зависимости от уровня) маны в секунду, когда вы находитесь в лесу или на реке. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n При \n \u003cdiv class\u003d\"custom status\"\u003e\n  поглощении\n \u003c/div\u003e этого предмета вы навсегда получаете все его эффекты. Кроме того, ваша Кара начинает наносить больше урона монстрам. Если вы получаете больше золота от миньонов, а не от лесных монстров, золото и опыт за убийство миньонов значительно снижаются. Лечение от атак, бьющих по площади, не уменьшается. Если ваш уровень на 2 меньше среднего уровня чемпионов в игре, за убийство монстров дается дополнительный опыт. \n\u003c/div\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Эффект горения от Вызывающей кары активируют только автоатаки и умения.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 1036,
+    "name": "Длинный меч",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1036.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1037,
+    "name": "Кирка",
+    "price": 875,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1037.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1038,
+    "name": "Самый Лучший Меч",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1038.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1039,
+    "name": "Ледяной клинок",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1039.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Выгорание:\n\u003c/div\u003e нанося урон монстрам, вы поджигаете их и наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (60 + 30% от силы умений + 5% от дополнительной силы атаки + 2% от дополнительного здоровья) магического урона\n\u003c/div\u003e в течение 5 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Леденящий путь:\n\u003c/div\u003e использовав Кару 5 раз, вы поглощаете этот предмет и получаете \n\u003cdiv class\u003d\"custom attention\"\u003e\n Леденящую кару\n\u003c/div\u003e, которая наносит больше урона монстрам. Леденящая кара наносит чемпионам \n\u003cdiv class\u003d\"custom truedamage\"\u003e\n 20-156 (в зависимости от уровня)\n\u003c/div\u003e чистого урона и похищает 20% их скорости передвижения на 2 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Охотник:\n\u003c/div\u003e за убийство больших монстров вы получаете дополнительный опыт.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восполнение:\n\u003c/div\u003e восстанавливает до 8-18 (в зависимости от уровня) маны в секунду, когда вы находитесь в лесу или на реке. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n При \n \u003cdiv class\u003d\"custom status\"\u003e\n  поглощении\n \u003c/div\u003e этого предмета вы навсегда получаете все его эффекты. Кроме того, ваша Кара начинает наносить больше урона монстрам. Если вы получаете больше золота от миньонов, а не от лесных монстров, золото и опыт за убийство миньонов значительно снижаются. Лечение от атак, бьющих по площади, не уменьшается. Если ваш уровень на 2 меньше среднего уровня чемпионов в игре, за убийство монстров дается дополнительный опыт. \n\u003c/div\u003e\u003cbr\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "Обсидиановая грань",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1040.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Выгорание:\n\u003c/div\u003e нанося урон монстрам, вы поджигаете их и наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (60 + 30% от силы умений + 5% от дополнительной силы атаки + 2% от дополнительного здоровья) магического урона\n\u003c/div\u003e в течение 5 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Автопуть:\n\u003c/div\u003e использовав Карающую атаку 5 раз, вы поглощаете этот предмет и улучшаете Карающую атаку, увеличивая ее урон монстрам.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Охотник:\n\u003c/div\u003e за убийство больших монстров вы получаете дополнительный опыт.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восполнение:\n\u003c/div\u003e восстанавливает до 8-18 (в зависимости от уровня) маны в секунду, когда вы находитесь в лесу или на реке. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n При \n \u003cdiv class\u003d\"custom status\"\u003e\n  поглощении\n \u003c/div\u003e этого предмета вы навсегда получаете все его эффекты. Кроме того, ваша Кара начинает наносить больше урона монстрам. Если вы получаете больше золота от миньонов, а не от лесных монстров, золото и опыт за убийство миньонов значительно снижаются. Лечение от атак, бьющих по площади, не уменьшается. Если ваш уровень на 2 меньше среднего уровня чемпионов в игре, за убийство монстров дается дополнительный опыт. \n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 1042,
+    "name": "Кинжал",
+    "price": 300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1042.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "12%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1043,
+    "name": "Изогнутый лук",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1043.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Утяжеление:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 15 физического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 1052,
+    "name": "Усиливающий фолиант",
+    "price": 435,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1052.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1053,
+    "name": "Вампирский скипетр",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1053.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1054,
+    "name": "Щит Дорана",
+    "price": 450,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1054.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "80"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Сосредоточенность:\n\u003c/div\u003e автоатаки дополнительно наносят миньонам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 5 физического урона\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восстановление:\n\u003c/div\u003e восстанавливает \n\u003cdiv class\u003d\"custom healing\"\u003e\n 6 здоровья\n\u003c/div\u003e каждые 5 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Выносливость:\n\u003c/div\u003e после получения урона от вражеского чемпиона, большого лесного монстра или эпического лесного монстра восстанавливает до \n\u003cdiv class\u003d\"custom healing\"\u003e\n 40 здоровья\n\u003c/div\u003e в течение 8 сек. Восстановление увеличивается, когда у вас мало здоровья.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Эффективность \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Выносливости\n \u003c/div\u003e уменьшается до 66%, если предметом владеет чемпион дальнего боя, а также при получении урона по площади и периодического урона.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 1055,
+    "name": "Клинок Дорана",
+    "price": 450,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1055.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "8"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Разжигатель войны:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom lifeSteal\"\u003e\n 2.5% всестороннего вытягивания жизни\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n При нанесении урона по площади или посредством питомцев эффективность всестороннего вытягивания жизни составляет 33%.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 1056,
+    "name": "Кольцо Дорана",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1056.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Сосредоточенность:\n\u003c/div\u003e автоатаки дополнительно наносят миньонам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 5 физического урона\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Истощение:\n\u003c/div\u003e восстанавливает \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 0.75 маны\n\u003c/div\u003e каждую секунду. При нанесении урона вражеским чемпионам это значение увеличивается до \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 1.25\n\u003c/div\u003e на 10 сек. Если вы не можете получать ману, восстанавливает здоровье в размере 50% от этого значения."
+    ]
+  },
+  {
+    "id": 1057,
+    "name": "Поглощающий плащ",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1057.png?v1",
+    "stats": [
+      {
+        "name": "сопротивления магии",
+        "value": "50"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1058,
+    "name": "Слишком Большой Жезл",
+    "price": 1250,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1058.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "60"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 1082,
+    "name": "Темная печать",
+    "price": 350,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1082.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Слава:\n\u003c/div\u003e участия в убийствах чемпионов приносят заряды; убийство\u0026nbsp;– 2, содействие\u0026nbsp;– 1 (может накапливаться до 10 зарядов). После смерти вы теряете часть зарядов (5).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трепет:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n 4 силы умений\n\u003c/div\u003e за каждый заряд \n\u003cdiv class\u003d\"custom passive\"\u003e\n Славы\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Полученные заряды \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Славы\n \u003c/div\u003e передаются между этим предметом и \n \u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n  Пожирателем душ Меджай\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 1083,
+    "name": "Уничтожитель",
+    "price": 450,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/1083.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "7"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "Автоатаки восстанавливают \n\u003cdiv class\u003d\"custom healing\"\u003e\n 3 здоровья\n\u003c/div\u003e за попадание.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Жатва:\n\u003c/div\u003e убийство миньона на линии дополнительно приносит \n\u003cdiv class\u003d\"custom goldGain\"\u003e\n 1\n\u003c/div\u003e золота. Убийство 100 миньонов на линии немедленно дает \n\u003cdiv class\u003d\"custom goldGain\"\u003e\n 350\n\u003c/div\u003e золота, но прекращает действие \n\u003cdiv class\u003d\"custom passive\"\u003e\n Жатвы\n\u003c/div\u003e.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 2003,
+    "name": "Зелье здоровья",
+    "price": 50,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2003.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете зелье, восстанавливая ",
+      "\u003cdiv class\u003d\"custom healing\"\u003e\n 150 здоровья\n\u003c/div\u003e",
+      " в течение 15 сек.",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Одновременно можно носить с собой до 5 Зелий здоровья.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2010,
+    "name": "Тотальная печенька вечной воли",
+    "price": 50,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2010.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы съедаете печеньку, восстанавливая ",
+      "\u003cdiv class\u003d\"custom healing\"\u003e\n 10% от недостающих здоровья\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom scaleMana\"\u003e\n маны\n\u003c/div\u003e",
+      " в течение 5 сек. Съев или продав печеньку, вы навсегда увеличиваете ",
+      "\u003cdiv class\u003d\"custom scaleMana\"\u003e\n максимальный запас маны на 50\n\u003c/div\u003e",
+      ". "
+    ]
+  },
+  {
+    "id": 2015,
+    "name": "Осколок Кирхайс",
+    "price": 700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2015.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "15%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Заряженность:\n\u003c/div\u003e передвижение и автоатаки дают заряды энергии, которые усиливают атаки.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Встряска:\n\u003c/div\u003e заряженные автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 80 магического урона\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 2031,
+    "name": "Пополняемое зелье",
+    "price": 150,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2031.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете порцию зелья, восстанавливая ",
+      "\u003cdiv class\u003d\"custom healing\"\u003e\n 125 здоровья\n\u003c/div\u003e",
+      " в течение 12 сек. Содержит до 2 порций и пополняется при возвращении на базу."
+    ]
+  },
+  {
+    "id": 2033,
+    "name": "Вредоносное зелье",
+    "price": 500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2033.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете порцию зелья, восстанавливая ",
+      "\u003cdiv class\u003d\"custom healing\"\u003e\n 125 здоровья\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 75 маны\n\u003c/div\u003e",
+      " в течение 12 сек. Во время действия этого эффекта умения, наносящие урон, и автоатаки поджигают вражеских чемпионов, нанося ",
+      "\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 15 (20, если вы не можете получать ману) магического урона\n\u003c/div\u003e",
+      " в течение 3 сек. Содержит до 3 порций и пополняется при возвращении на базу.",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Урон этого предмета уменьшается до 50%, если его вызвал урон по площади или периодический урон.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2051,
+    "name": "Рог стража",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2051.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восстановление:\n\u003c/div\u003e восстанавливает \n\u003cdiv class\u003d\"custom healing\"\u003e\n 20 здоровья\n\u003c/div\u003e каждые 5 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Неустрашимость:\n\u003c/div\u003e блокирует 15 урона от автоатак и умений чемпионов (эффективность против периодического урона\u0026nbsp;– 25%).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Легендарность:\n\u003c/div\u003e этот предмет считается \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарным\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 2052,
+    "name": "Поро-снэк",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2052.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы подбрасываете горсть восхитительного лакомства ближайшему поро, и он увеличивается в размерах."
+    ]
+  },
+  {
+    "id": 2055,
+    "name": "Тотем контроля",
+    "price": 75,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2055.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы устанавливаете мощный Тотем контроля, который дает обзор в окружающей области. Кроме того, он раскрывает ",
+      "\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n невидимые\n\u003c/div\u003e",
+      " ловушки и ",
+      "\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n замаскированных\n\u003c/div\u003e",
+      " врагов, а также раскрывает и отключает вражеские Скрытые тотемы. ",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Одновременно можно носить с собой до 2 Тотемов контроля. Тотемы контроля не отключают другие Тотемы контроля.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2065,
+    "name": "Боевая песнь Шурелии",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2065.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Мотивация:\n\u003c/div\u003e при усилении или защите другого союзного чемпиона дает обоим союзникам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 25% скорости передвижения\n\u003c/div\u003e на 1.5 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Перезарядка \n \u003cdiv class\u003d\"custom keywordMajor\"\u003e\n  Мотивации\n \u003c/div\u003e для каждого союзника – 4 сек.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2138,
+    "name": "Эликсир стали",
+    "price": 500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2138.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете эликсир, на 3 мин. получая ",
+      "\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n 300 здоровья\n\u003c/div\u003e",
+      " и 25% стойкости, а также увеличиваясь в размере. Пока действует эффект, вы оставляете за собой след, движение по которому увеличивает ",
+      "\u003cdiv class\u003d\"custom speed\"\u003e\n скорость передвижения союзных чемпионов на 15%\n\u003c/div\u003e",
+      ".",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Если вы выпиваете другой эликсир, действие этого прекращается.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2139,
+    "name": "Эликсир волшебства",
+    "price": 500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2139.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете эликсир, на 3 мин. получая ",
+      "\u003cdiv class\u003d\"custom scaleAP\"\u003e\n 50 силы умений\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 15% восстановления маны\n\u003c/div\u003e",
+      ". Пока действует эффект, при нанесении урона чемпионам или башням вы дополнительно наносите ",
+      "\u003cdiv class\u003d\"custom trueDamage\"\u003e\n 25 чистого урона\n\u003c/div\u003e",
+      " (перезарядка\u0026nbsp;– 5 сек.).",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Для покупки требуется как минимум \n \u003cdiv class\u003d\"custom attention\"\u003e\n  9-й\n \u003c/div\u003e уровень. Эффект Эликсира волшебства, наносящий чистый урон, не уходит на перезарядку при атаке башен. Если вы выпиваете другой эликсир, действие этого прекращается.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2140,
+    "name": "Эликсир гнева",
+    "price": 500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2140.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы выпиваете эликсир, на 3 мин. получая ",
+      "\u003cdiv class\u003d\"custom scaleAD\"\u003e\n 30 силы атаки\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom lifeSteal\"\u003e\n 15% физического вытягивания жизни\n\u003c/div\u003e",
+      " (против чемпионов).",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Если вы выпиваете другой эликсир, действие этого прекращается.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2403,
+    "name": "Дезинтегратор миньонов",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2403.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " убивает выбранного миньона на линии (10 сек. )."
+    ]
+  },
+  {
+    "id": 2419,
+    "name": "Начальный секундомер",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2419.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "Превращается в \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Секундомер\n\u003c/div\u003e через 14 мин. Убийства и содействия сокращают это время на 2 мин. При создании предметов из этого \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Секундомера\n\u003c/div\u003e он заменяет 250 золота.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Обычный Секундомер превращается в 650 золота.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2420,
+    "name": "Секундомер",
+    "price": 650,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2420.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e",
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Стазис:\n\u003c/div\u003e",
+      " вы можете один раз использовать Секундомер, чтобы стать ",
+      "\u003cdiv class\u003d\"custom status\"\u003e\n неуязвимым\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom status\"\u003e\n недосягаемым\n\u003c/div\u003e",
+      " на 2.5 сек., но при этом вы лишаетесь возможности совершать какие-либо действия (превращается в ",
+      "\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Сломанный секундомер\n\u003c/div\u003e",
+      ")."
+    ]
+  },
+  {
+    "id": 2421,
+    "name": "Сломанный секундомер",
+    "price": 650,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2421.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Время вышло:\n\u003c/div\u003e Секундомер сломан, но его по-прежнему можно улучшить.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Если вы сломаете один Секундомер, торговец будет продавать вам только \n \u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n  Сломанные секундомеры\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 2422,
+    "name": "Ботинки с капелькой магии",
+    "price": 300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2422.png?v1",
+    "stats": [
+      {
+        "name": "скорости передвижения",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "Дополнительно дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 10 скорости передвижения\n\u003c/div\u003e. Обувь, которая создается из Ботинок с капелькой магии, сохраняет эту прибавку к скорости передвижения."
+    ]
+  },
+  {
+    "id": 2423,
+    "name": "Заведенный секундомер",
+    "price": 650,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2423.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e",
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Стазис:\n\u003c/div\u003e",
+      " вы можете один раз использовать Секундомер, чтобы стать ",
+      "\u003cdiv class\u003d\"custom status\"\u003e\n неуязвимым\n\u003c/div\u003e",
+      " и ",
+      "\u003cdiv class\u003d\"custom status\"\u003e\n недосягаемым\n\u003c/div\u003e",
+      " на 2.5 сек., но при этом вы лишаетесь возможности совершать какие-либо действия (превращается в ",
+      "\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Сломанный секундомер\n\u003c/div\u003e",
+      ")."
+    ]
+  },
+  {
+    "id": 2424,
+    "name": "Сломанный секундомер",
+    "price": 650,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/2424.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Время вышло:\n\u003c/div\u003e Секундомер сломан, но его по-прежнему можно улучшить.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Если вы сломаете один Секундомер, торговец будет продавать вам только \n \u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n  Сломанные секундомеры\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3001,
+    "name": "Вечерний покров",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3001.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      },
+      {
+        "name": "брони",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Вспышка:\n\u003c/div\u003e когда вы \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживаете\n\u003c/div\u003e чемпиона или он \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживает\n\u003c/div\u003e вас, на эту цель и вражеских чемпионов поблизости накладывается ослабление, которое увеличивает получаемый ими урон на 9% на 4 сек. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5 брони и сопротивления магии.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3003,
+    "name": "Посох архангела",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3003.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "60"
+      },
+      {
+        "name": "маны",
+        "value": "500"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает ускорение умений в размере \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 0.5% от дополнительной маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуар маны:\n\u003c/div\u003e поражая врага умением, вы поглощаете заряд и получаете \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 3 дополнительной маны\n\u003c/div\u003e. Если цель\u0026nbsp;– чемпион, бонус удваивается. Когда вы накапливаете 360 маны с помощью \n\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуара маны\n\u003c/div\u003e, этот предмет превращается в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Объятья серафима\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Вы получаете новый заряд Резервуара маны раз в 8 сек. (максимум зарядов\u0026nbsp;– 4).\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3004,
+    "name": "Манамунэ",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3004.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "35"
+      },
+      {
+        "name": "маны",
+        "value": "500"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительную \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n силу атаки в размере 2.5% от максимального запаса маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуар маны:\n\u003c/div\u003e поражая врага умением или автоатакой, вы поглощаете заряд и получаете \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 3 дополнительной маны\n\u003c/div\u003e. Если цель\u0026nbsp;– чемпион, бонус удваивается. Когда вы накапливаете 360 маны с помощью \n\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуара маны\n\u003c/div\u003e, этот предмет превращается в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Мурамана\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Вы получаете новый заряд Резервуара маны раз в 8 сек. (максимум зарядов\u0026nbsp;– 4).\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3006,
+    "name": "Наголенники берсерка",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3006.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "35%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3009,
+    "name": "Ботинки стремительности",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3009.png?v1",
+    "stats": [
+      {
+        "name": "скорости передвижения",
+        "value": "60"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "Сила эффектов замедления уменьшается на 25%."
+    ]
+  },
+  {
+    "id": 3011,
+    "name": "Химтековый разъедатель",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3011.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "55"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Грибной токсин:\n\u003c/div\u003e при нанесении магического урона вражеским чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек. Когда вы лечите союзника или накладываете на него щит, вы оба усиливаетесь и при следующем нанесении урона вражескому чемпиону накладываете на цель \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (60%)\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3020,
+    "name": "Сапоги чародея",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3020.png?v1",
+    "stats": [
+      {
+        "name": "магического пробивания",
+        "value": "18"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3024,
+    "name": "Ледяной баклер",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3024.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "20"
+      },
+      {
+        "name": "маны",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3026,
+    "name": "Ангел-хранитель",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3026.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чудо:\n\u003c/div\u003e получив смертельный урон, вы впадаете в стазис на 4 сек., а затем восстанавливаете \n\u003cdiv class\u003d\"custom healing\"\u003e\n 50% от базового запаса здоровья\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 30% от максимального запаса маны\n\u003c/div\u003e (перезарядка\u0026nbsp;– 300 сек.)."
+    ]
+  },
+  {
+    "id": 3031,
+    "name": "Грань Бесконечности",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3031.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "70"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Совершенство:\n\u003c/div\u003e если у вас есть хотя бы 60% шанса критического удара, ваш критический урон увеличивается на 35%."
+    ]
+  },
+  {
+    "id": 3033,
+    "name": "Глашатай смерти",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3033.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Сепсис:\n\u003c/div\u003e при нанесении физического урона вражеским чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек. Если вы применяете к вражескому чемпиону 3 автоатаки подряд, эффективность \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшных ран\n\u003c/div\u003e на нем увеличивается до \n\u003cdiv class\u003d\"custom status\"\u003e\n 60%\n\u003c/div\u003e до окончания действия эффекта.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3035,
+    "name": "Предсмертный шепот",
+    "price": 1450,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3035.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3036,
+    "name": "Поклон лорда Доминика",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3036.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Убийца великанов:\n\u003c/div\u003e дополнительно наносит до \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 15% физического урона\n\u003c/div\u003e чемпионам, максимальный запас здоровья которых больше, чем у вас.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Убийца великанов наносит максимальный урон, когда разница в здоровье превышает 2000.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3040,
+    "name": "Объятья серафима",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3040.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      },
+      {
+        "name": "маны",
+        "value": "860"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает ускорение умений в размере \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 1.3% от дополнительной маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Седьмое небо:\n\u003c/div\u003e восстанавливает \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n здоровье\n\u003c/div\u003e в размере 35% от затрачиваемой \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n маны\n\u003c/div\u003e, вплоть до 25-50 (+10% от силы умений) за применение умения. Переключаемые умения восстанавливают до 25-50 (+10% от силы умений) здоровья в секунду."
+    ]
+  },
+  {
+    "id": 3041,
+    "name": "Пожиратель душ Меджай",
+    "price": 1600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3041.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Слава:\n\u003c/div\u003e убийства чемпионов и содействия приносят заряды; убийство\u0026nbsp;– 4, содействие\u0026nbsp;– 2 (может накапливаться до 25 зарядов). После смерти вы теряете часть зарядов (10).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трепет:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n 5 силы умений\n\u003c/div\u003e за каждый заряд \n\u003cdiv class\u003d\"custom passive\"\u003e\n Славы\n\u003c/div\u003e. Дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 10% скорости передвижения\n\u003c/div\u003e, если у вас есть хотя бы 10 зарядов.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Полученные заряды \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Славы\n \u003c/div\u003e передаются между этим предметом и \n \u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n  Темной печатью\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3042,
+    "name": "Мурамана",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3042.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "35"
+      },
+      {
+        "name": "маны",
+        "value": "860"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительную \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n силу атаки в размере 2.5% от максимального запаса маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Шок:\n\u003c/div\u003e автоатаки дополнительно наносят чемпионам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 1.5% от максимального запаса маны\n\u003c/div\u003e (\n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e). Умения, наносящие урон, дополнительно наносят чемпионам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере (3.5% для чемпионов ближнего боя | 2.7% для чемпионов дальнего боя) от максимального запаса маны + 6% от общей силы атаки\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3043,
+    "name": "Мурамана",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3043.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "35"
+      },
+      {
+        "name": "маны",
+        "value": "860"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительную \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n силу атаки в размере 2.5% от максимального запаса маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Шок:\n\u003c/div\u003e умения и автоатаки ( \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e) дополнительно наносят чемпионам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (2.5% от максимального запаса маны) физического урона\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3044,
+    "name": "Поглотитель",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3044.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Прочность:\n\u003c/div\u003e после того как вы наносите физический урон чемпиону, восстанавливает \n\u003cdiv class\u003d\"custom healing\"\u003e\n 2% от максимального запаса здоровья\n\u003c/div\u003e в течение 6 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила восстановления уменьшена до 50% для чемпионов дальнего боя.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3046,
+    "name": "Призрачный Танцор",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3046.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "20"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Призрачный вальс:\n\u003c/div\u003e автоатаки дают вам \n\u003cdiv class\u003d\"custom status\"\u003e\n призрачность\n\u003c/div\u003e и увеличивают \n\u003cdiv class\u003d\"custom speed\"\u003e\n скорость передвижения на 7%\n\u003c/div\u003e на 3 сек. После 4 автоатак Призрачный вальс дополнительно дает \n\u003cdiv class\u003d\"custom attackSpeed\"\u003e\n 30% скорости атаки\n\u003c/div\u003e на то же время.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Призрачность\n \u003c/div\u003e позволяет проходить сквозь других бойцов.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3047,
+    "name": "Бронированные сапоги",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3047.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "Уменьшает получаемый урон от автоатак на 12%."
+    ]
+  },
+  {
+    "id": 3048,
+    "name": "Объятья серафима",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3048.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "65"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительную \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n силу умений в размере 5% от дополнительной маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Седьмое небо:\n\u003c/div\u003e увеличивает ваш общий \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n запас маны на 5% (+2.5% за \n \u003cdiv class\u003d\"custom scaleAP\"\u003e\n  100 силы умений\n \u003c/div\u003e)\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3050,
+    "name": "Конвергенция Зика",
+    "price": 2400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3050.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "брони",
+        "value": "25"
+      },
+      {
+        "name": "маны",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Конвергенция:\n\u003c/div\u003e в течение 8 сек. после того, как вы \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживаете\n\u003c/div\u003e врага, автоатаки и умения вашего \n\u003cdiv class\u003d\"custom attention\"\u003e\n компаньона\n\u003c/div\u003e дополнительно наносят этой цели \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (30-70 (в зависимости от уровня) + 1.5% от максимального запаса здоровья + 7.5% от силы умений) магического урона\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Одновременно чемпионы могут быть связаны не более чем одной Конвергенцией Зика.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3051,
+    "name": "Топор Теплолюбивых",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3051.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Проворность:\n\u003c/div\u003e применяя автоатаки к бойцам, вы получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n (20 | 10 для чемпионов дальнего боя) скорости передвижения\n\u003c/div\u003e на 2 сек."
+    ]
+  },
+  {
+    "id": 3053,
+    "name": "Испытание Стерака",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3053.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "400"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Цепкие когти:\n\u003c/div\u003e дает дополнительную силу атаки в размере 40% от базовой силы атаки.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни:\n\u003c/div\u003e при получении урона, после которого ваш уровень здоровья опускается ниже 30%, на вас накладывается \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью 75% от дополнительного здоровья\n\u003c/div\u003e на 3.75 сек. (60 сек. )."
+    ]
+  },
+  {
+    "id": 3057,
+    "name": "Сияние",
+    "price": 700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3057.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (100% от базовой силы атаки) физического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка\u0026nbsp;– 1.5 сек.)."
+    ]
+  },
+  {
+    "id": 3065,
+    "name": "Облачение духов",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3065.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "450"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "40"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Живительная сила:\n\u003c/div\u003e увеличивает эффективность всего получаемого вами лечения и прочность накладываемых на вас щитов на 25%."
+    ]
+  },
+  {
+    "id": 3066,
+    "name": "Крылья луны",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3066.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Полет:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 5% скорости передвижения\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3067,
+    "name": "Воспламеняющий камень",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3067.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "200"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3068,
+    "name": "Эгида солнечного пламени",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3068.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      },
+      {
+        "name": "брони",
+        "value": "35"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "35"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (12-30 (в зависимости от уровня) + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 150% против монстров). Эффект длится 3 сек. Когда этот эффект наносит урон чемпионам или эпическим монстрам, вы получаете заряд, который увеличивает последующий урон \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e на 12% на 5 сек. (максимум зарядов\u0026nbsp;– 6).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Пламенное касание:\n\u003c/div\u003e при максимальном количестве зарядов \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e ваши автоатаки поджигают врагов поблизости и заставляют их получать ежесекундный урон \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e в течение 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e стойкости и устойчивости к замедлению, а также \n\u003cdiv class\u003d\"custom attention\"\u003e\n 50\n\u003c/div\u003e здоровья."
+    ]
+  },
+  {
+    "id": 3070,
+    "name": "Слеза богини",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3070.png?v1",
+    "stats": [
+      {
+        "name": "маны",
+        "value": "240"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Сосредоточенность:\n\u003c/div\u003e автоатаки дополнительно наносят миньонам \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 5 физического урона\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуар маны:\n\u003c/div\u003e поражая цель умением, вы поглощаете заряд и получаете \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 3 дополнительной маны\n\u003c/div\u003e. Если цель\u0026nbsp;– чемпион, бонус удваивается. Максимальная прибавка – 360 маны.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Вы получаете новый заряд \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Резервуара маны\n \u003c/div\u003e раз в 8 сек. (максимум зарядов\u0026nbsp;– 4).\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3071,
+    "name": "Черная секира",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3071.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "45"
+      },
+      {
+        "name": "здоровья",
+        "value": "350"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Прорезание:\n\u003c/div\u003e при нанесении физического урона чемпиону накладывает на него заряд \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n уменьшения брони (5%)\n\u003c/div\u003e на 6 сек. (максимальное \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n уменьшение брони\u0026nbsp;– 30%\n\u003c/div\u003e).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ярость:\n\u003c/div\u003e при нанесении физического урона чемпиону вы на 2 сек. получаете 3 скорости передвижения за каждый заряд \n\u003cdiv class\u003d\"custom unique\"\u003e\n Прорезания\n\u003c/div\u003e на нем."
+    ]
+  },
+  {
+    "id": 3072,
+    "name": "Кровопийца",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3072.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ихоровый щит:\n\u003c/div\u003e вампиризм от автоатак позволяет восстанавливать здоровье сверх максимального значения. Избыточное здоровье превращается в \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью 50-350 (в зависимости от уровня)\n\u003c/div\u003e. Если вы не наносите и не получаете урон в течение 25 сек., прочность щита начинает медленно уменьшаться."
+    ]
+  },
+  {
+    "id": 3074,
+    "name": "Ненасытная гидра",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3074.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "70"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Рассечение:\n\u003c/div\u003e автоатаки и умения наносят до \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (60% от силы атаки) физического урона\n\u003c/div\u003e остальным врагам вокруг пораженной цели.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Рассечение наносит не менее (12% от силы атаки) урона бойцам на краю области поражения, может поразить каждую цель не более раза за автоатаку или умение и не срабатывает от периодического урона.\n \u003cbr\u003eРассечение не срабатывает при поражении строений. \n\u003c/div\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 3075,
+    "name": "Шипованный доспех",
+    "price": 2700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3075.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Шипы:\n\u003c/div\u003e когда к вам применяют автоатаки, вы наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (10 + 10% от дополнительной брони) магического урона\n\u003c/div\u003e атакующему и накладываете на него \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны\n\u003c/div\u003e (40%) на 3 сек., если это чемпион. При обездвиживании вражеских чемпионов вы также накладываете на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны\n\u003c/div\u003e (60%) на 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3076,
+    "name": "Терновый жилет",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3076.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Шипы:\n\u003c/div\u003e когда к вам применяют автоатаки, вы наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 3 магического урона\n\u003c/div\u003e атакующему и накладываете на него \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек., если это чемпион.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3077,
+    "name": "Тиамат",
+    "price": 1200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3077.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Рассечение:\n\u003c/div\u003e автоатаки наносят другим врагам поблизости до \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (60% от силы атаки) физического урона\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Минимальный урон (самым дальним целям)\u0026nbsp;– (12% от силы атаки).\n \u003cbr\u003eРассечение не срабатывает при поражении строений. \n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3078,
+    "name": "Тройственный Союз",
+    "price": 3333,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3078.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "35"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "30%"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тройной удар:\n\u003c/div\u003e ваши автоатаки дают вам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 20 скорости передвижения\n\u003c/div\u003e на 3 сек. Если цель\u0026nbsp;– чемпион, вы дополнительно увеличиваете \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n базовую силу атаки на 4%\n\u003c/div\u003e на 3 сек. (суммируется до 5 раз; максимальная прибавка\u0026nbsp;– \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n 20% силы атаки\n\u003c/div\u003e).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (200% от базовой силы атаки) физического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка\u0026nbsp;– 1.5 сек.). \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e силы атаки, \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e ускорения умений и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e скорости передвижения"
+    ]
+  },
+  {
+    "id": 3082,
+    "name": "Доспех хранителя",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3082.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Твердость скалы:\n\u003c/div\u003e уменьшает урон от получаемых автоатак на величину до 5 + (0.35% от максимального запаса здоровья). Общее уменьшение не может превышать 40% от урона автоатаки."
+    ]
+  },
+  {
+    "id": 3083,
+    "name": "Доспех Вармога",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3083.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "800"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Сердце Вармога:\n\u003c/div\u003e если у вас не менее 1100 дополнительного здоровья, восстанавливает \n\u003cdiv class\u003d\"custom healing\"\u003e\n 5% от максимального запаса здоровья\n\u003c/div\u003e в секунду. При получении урона эффект прерывается на 6 сек. (на 3 сек. при получении урона от бойцов, не являющихся чемпионами)."
+    ]
+  },
+  {
+    "id": 3085,
+    "name": "Ураган Рунаан",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3085.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "45%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ярость ветра:\n\u003c/div\u003e автоатаки выпускают в 2 врагов рядом с целью небольшие заряды, каждый из которых наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (40% от силы атаки) физического урона\n\u003c/div\u003e. Заряды накладывают эффекты при попадании и могут нанести критический урон.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Предмет могут использовать только чемпионы дальнего боя.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3086,
+    "name": "Рвение",
+    "price": 1050,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3086.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "18%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ревностность:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 7% скорости передвижения\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3089,
+    "name": "Смертельная шляпа Рабадона",
+    "price": 3600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3089.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "120"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Магический опус:\n\u003c/div\u003e увеличивает вашу общую \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n силу умений на 35%\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3091,
+    "name": "Смерть Разума",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3091.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "40%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Боевой запал:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 15-80 (в зависимости от уровня) магического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e и дают \n\u003cdiv class\u003d\"custom speed\"\u003e\n 20 скорости передвижения\n\u003c/div\u003e на 2 сек."
+    ]
+  },
+  {
+    "id": 3094,
+    "name": "Скорострельная пушка",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3094.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "35%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Заряженность:\n\u003c/div\u003e передвижение и автоатаки дают заряды энергии, которые усиливают атаки.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Орлиный глаз:\n\u003c/div\u003e ваши заряженные автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 120 магического урона\n\u003c/div\u003e. Кроме того, дальность заряженных атак увеличивается на величину вплоть до 35%.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Максимальное увеличение дальности атаки\u0026nbsp;– 150.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3095,
+    "name": "Грозовая бритва",
+    "price": 2700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3095.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "15%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Заряженность:\n\u003c/div\u003e передвижение и автоатаки дают заряды энергии, которые усиливают атаки.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Парализация:\n\u003c/div\u003e ваши заряженные автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 120 магического урона\n\u003c/div\u003e. Кроме того, заряженные атаки замедляют врагов на 75% на 0.5 сек.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 3100,
+    "name": "Гроза Личей",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3100.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "75"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (75% от базовой силы атаки + 50% от силы умений) магического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка\u0026nbsp;– 1.5 сек.)."
+    ]
+  },
+  {
+    "id": 3102,
+    "name": "Завеса банши",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3102.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Отвод:\n\u003c/div\u003e накладывает щит от заклинаний, который блокирует следующее вражеское умение (перезарядка\u0026nbsp;– 40 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Перезарядка предмета начинается заново, если вы получаете урон от чемпионов до ее окончания.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3105,
+    "name": "Эгида Легиона",
+    "price": 1400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3105.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "30"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3107,
+    "name": "Искупление",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3107.png?v1",
+    "stats": [
+      {
+        "name": "эффективности лечения и щитов",
+        "value": "20%"
+      },
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3108,
+    "name": "Бесовской манускрипт",
+    "price": 900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3108.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "35"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3109,
+    "name": "Клятва рыцаря",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3109.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "400"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Жертвенность:\n\u003c/div\u003e пока ваш \n\u003cdiv class\u003d\"custom attention\"\u003e\n партнер\n\u003c/div\u003e находится рядом, вы перенаправляете на себя 10% от получаемого им урона, а также восстанавливаете себе здоровье в размере 8% от урона, который \n\u003cdiv class\u003d\"custom attention\"\u003e\n партнер\n\u003c/div\u003e наносит чемпионам. Если у него меньше 30% здоровья, уменьшение урона увеличивается до \n\u003cdiv class\u003d\"custom attention\"\u003e\n 20%\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Одновременно чемпионы могут быть связаны не более чем одной Клятвой рыцаря. Перенаправление урона останавливается, если у вас меньше 30% здоровья.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3110,
+    "name": "Ледяное сердце",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3110.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "80"
+      },
+      {
+        "name": "маны",
+        "value": "400"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Объятия зимы:\n\u003c/div\u003e уменьшает \n\u003cdiv class\u003d\"custom attackSpeed\"\u003e\n скорость атаки\n\u003c/div\u003e врагов поблизости на 20%.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Твердость скалы:\n\u003c/div\u003e уменьшает урон от получаемых автоатак на величину до 7 + (3.5 за 1000 максимального запаса здоровья). Общее уменьшение не может превышать 40% от урона автоатаки."
+    ]
+  },
+  {
+    "id": 3111,
+    "name": "Поступь Меркурия",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3111.png?v1",
+    "stats": [
+      {
+        "name": "сопротивления магии",
+        "value": "25"
+      },
+      {
+        "name": "скорости передвижения",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3112,
+    "name": "Сфера стража",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3112.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восстановление:\n\u003c/div\u003e восстанавливает \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 10 маны\n\u003c/div\u003e каждые 5 сек. Если вы не можете получать ману, он восстанавливает \n\u003cdiv class\u003d\"custom healing\"\u003e\n 15 здоровья\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Легендарность:\n\u003c/div\u003e этот предмет считается \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарным\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3113,
+    "name": "Эфирный всполох",
+    "price": 850,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3113.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Парение:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 5% скорости передвижения\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3114,
+    "name": "Запретный идол",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3114.png?v1",
+    "stats": [
+      {
+        "name": "базового восстановления маны",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3115,
+    "name": "Зуб Нашора",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3115.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "100"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Укус Икатии:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (15 + 20% от силы умений) магического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3116,
+    "name": "Хрустальный скипетр Рилай",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3116.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "75"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Заиндевение:\n\u003c/div\u003e умения, наносящие урон, \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляют\n\u003c/div\u003e врагов на 30% на 1 сек."
+    ]
+  },
+  {
+    "id": 3117,
+    "name": "Ботинки подвижности",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3117.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "После 5 сек. вне боя сила эффекта этого предмета увеличивается до \n\u003cdiv class\u003d\"custom attention\"\u003e\n 115\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3119,
+    "name": "Вестник зимы",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3119.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "400"
+      },
+      {
+        "name": "маны",
+        "value": "500"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительное \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n здоровье в размере 8% от общего запаса маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуар маны:\n\u003c/div\u003e поражая врага умением или автоатакой, вы поглощаете заряд и получаете \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 3 дополнительной маны\n\u003c/div\u003e. Если цель\u0026nbsp;– чемпион, бонус удваивается. Когда вы накапливаете 360 маны с помощью \n\u003cdiv class\u003d\"custom passive\"\u003e\n Резервуара маны\n\u003c/div\u003e, этот предмет превращается в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Великанскую зиму\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Вы получаете новый заряд Резервуара маны раз в 8 сек. (максимум зарядов\u0026nbsp;– 4).\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3121,
+    "name": "Великанская зима",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3121.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "400"
+      },
+      {
+        "name": "маны",
+        "value": "860"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благоговение:\n\u003c/div\u003e дает дополнительное \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n здоровье в размере 8% от общего запаса маны\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Вечность:\n\u003c/div\u003e при \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживании\n\u003c/div\u003e любого вражеского чемпиона или \n\u003cdiv class\u003d\"custom status\"\u003e\n замедлении\n\u003c/div\u003e вражеского чемпиона ближнего боя поглощает \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 3% от текущего запаса маны\n\u003c/div\u003e и на 3 сек. накладывает щит прочностью \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 100-200 + 5% от текущего запаса маны\n\u003c/div\u003e (8 сек.). Прочность щита увеличивается на \n\u003cdiv class\u003d\"custom attention\"\u003e\n 80%\n\u003c/div\u003e, если рядом больше одного врага.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот эффект срабатывает, только когда текущий запас маны превышает 20%.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3123,
+    "name": "Призвание Палача",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3123.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Раздирание:\n\u003c/div\u003e при нанесении физического урона чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3124,
+    "name": "Клинок ярости Гинсу",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3124.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "45%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Гнев:\n\u003c/div\u003e ваш шанс критического удара превращается в урон \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e – \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 40 физического урона\n\u003c/div\u003e за каждые 20% шанса критического удара.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Яростный удар:\n\u003c/div\u003e каждая третья автоатака накладывает эффекты при попадании дважды.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom passive\"\u003e\n  Гнев\n \u003c/div\u003e учитывает не более 100% шанса критического удара. На урон \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Гнева\n \u003c/div\u003e действуют модификаторы критического урона.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3133,
+    "name": "Боевой молот Колфилда",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3133.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3134,
+    "name": "Зазубренный кинжал",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3134.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Пробитие:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom scaleLethality\"\u003e\n 10 смертоносности\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3135,
+    "name": "Посох Бездны",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3135.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "65"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3139,
+    "name": "Ртутный ятаган",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3139.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3140,
+    "name": "Кушак стремительного серебра",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3140.png?v1",
+    "stats": [
+      {
+        "name": "сопротивления магии",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3142,
+    "name": "Призрачный клинок Йомуу",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3142.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "смертоносности",
+        "value": "18"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Преследование:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom speed\"\u003e\n 40 скорости передвижения\n\u003c/div\u003e вне боя.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Призрачность\n \u003c/div\u003e позволяет проходить сквозь других бойцов.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3143,
+    "name": "Знамение Рандуина",
+    "price": 2700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3143.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "брони",
+        "value": "80"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Твердость скалы:\n\u003c/div\u003e уменьшает урон от получаемых автоатак на величину до 5 + (0.35% от максимального запаса здоровья). Общее уменьшение не может превышать 40% от урона автоатаки."
+    ]
+  },
+  {
+    "id": 3145,
+    "name": "Хекстек-альтернатор",
+    "price": 1050,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3145.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n На взводе:\n\u003c/div\u003e при нанесении урона чемпиону дополнительно наносит ему \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 50-125 (в зависимости от уровня) магического урона\n\u003c/div\u003e (перезарядка\u0026nbsp;– 40 сек.)."
+    ]
+  },
+  {
+    "id": 3152,
+    "name": "Хекстековый ракетный ремень",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3152.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "90"
+      },
+      {
+        "name": "магического пробивания",
+        "value": "6"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3153,
+    "name": "Клинок Падшего короля",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3153.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Край тумана:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e в размере (12% для чемпионов ближнего боя | 8% для чемпионов дальнего боя) от текущего здоровья цели.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Вытягивание:\n\u003c/div\u003e применив 3 автоатаки к чемпиону, вы наносите ему \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 40-150 (в зависимости от уровня) магического урона\n\u003c/div\u003e и похищаете 25% скорости передвижения на 2 сек. (перезарядка\u0026nbsp;– 20 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Максимальный урон \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Края тумана\n \u003c/div\u003e против миньонов и монстров\u0026nbsp;– 60.\n \u003cbr\u003eУ этого предмета разная эффективность для чемпионов ближнего и дальнего боя.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3155,
+    "name": "Пожиратель заклятий",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3155.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни:\n\u003c/div\u003e при получении магического урона, после которого ваш уровень здоровья опускается ниже 30%, вы получаете \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит от магического урона прочностью 110-280 (в зависимости от уровня)\n\u003c/div\u003e на 3 сек. (перезарядка\u0026nbsp;– 90 сек.)."
+    ]
+  },
+  {
+    "id": 3156,
+    "name": "Зев Малмортиуса",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3156.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "50"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни:\n\u003c/div\u003e при получении магического урона, после которого ваш уровень здоровья опускается ниже 30%, вы получаете \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит от магического урона прочностью (200 + 225% от дополнительной силы атаки [для чемпионов дальнего боя прочность щита снижена до 75%])\n\u003c/div\u003e на 5 сек. (перезарядка\u0026nbsp;– 60 сек.). Когда срабатывает \n\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни\n\u003c/div\u003e, вы получаете \n\u003cdiv class\u003d\"custom lifeSteal\"\u003e\n 12% всестороннего вытягивания жизни\n\u003c/div\u003e до конца боя."
+    ]
+  },
+  {
+    "id": 3157,
+    "name": "Песочные часы Жони",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3157.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "65"
+      },
+      {
+        "name": "брони",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3158,
+    "name": "Ионийские сапоги просветления",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3158.png?v1",
+    "stats": [
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "Дает 12 ускорения заклинаний призывателя.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom flavorText\"\u003e\n \u0027\u0027Эта вещь посвящена победе Ионии над Ноксусом в матче-реванше за Южные провинции 10 декабря 20 года эры Лиги\u0027\u0027.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3165,
+    "name": "Мореллономикон",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3165.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Недуг:\n\u003c/div\u003e при нанесении магического урона вражеским чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек. Если у цели меньше 50% здоровья, эффективность \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшных ран\n\u003c/div\u003e увеличивается до \n\u003cdiv class\u003d\"custom status\"\u003e\n 60%\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3177,
+    "name": "Клинок стража",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3177.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      },
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Легендарность:\n\u003c/div\u003e этот предмет считается \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарным\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3179,
+    "name": "Теневая глефа",
+    "price": 2400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3179.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "50"
+      },
+      {
+        "name": "смертоносности",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Затемнение:\n\u003c/div\u003e при попадании в поле зрения вражеского тотема раскрывает ловушки и отключает тотемы вокруг вас на 8 сек. (перезарядка\u0026nbsp;– 45 сек.). Автоатаки мгновенно уничтожают раскрытые ловушки и наносят тройной урон тотемам."
+    ]
+  },
+  {
+    "id": 3181,
+    "name": "Бортолом",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3181.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "50"
+      },
+      {
+        "name": "здоровья",
+        "value": "400"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Абордажная команда:\n\u003c/div\u003e когда рядом нет союзных чемпионов, вы получаете 20-45 \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n брони\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивления магии\n\u003c/div\u003e, а также наносите на 20% больше урона башням. Большие миньоны поблизости получают 60-135 \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n брони\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивления магии\n\u003c/div\u003e, а также наносят на 200% больше урона башням. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Защитные показатели от Абордажной команды пропадают в течение 3 сек. после приближения союзника.\n\u003c/div\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 3184,
+    "name": "Молот стража",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3184.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "25"
+      },
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Легендарность:\n\u003c/div\u003e этот предмет считается \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарным\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3190,
+    "name": "Медальон Железных Солари",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3190.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      },
+      {
+        "name": "брони",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благо:\n\u003c/div\u003e дает союзным чемпионам поблизости \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n 5 брони\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивления магии\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают прибавку к эффективности \n\u003cdiv class\u003d\"custom passive\"\u003e\n Блага\n\u003c/div\u003e\u0026nbsp;– \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2\n\u003c/div\u003e брони и сопротивления магии.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n \u003cbr\u003eПрочность новых щитов \n \u003cdiv class\u003d\"custom active\"\u003e\n  Преданности\n \u003c/div\u003e, наложенных в течение 20 сек., составляет 25%.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3191,
+    "name": "Наручи Искательницы",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3191.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Защита ведьмы:\n\u003c/div\u003e при убийстве бойца дает \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n 0.5 брони\n\u003c/div\u003e (максимальная прибавка\u0026nbsp;– \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n 15\n\u003c/div\u003e)."
+    ]
+  },
+  {
+    "id": 3193,
+    "name": "Каменный доспех гаргульи",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3193.png?v1",
+    "stats": [
+      {
+        "name": "брони",
+        "value": "60"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "60"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Укрепление:\n\u003c/div\u003e при получении урона от чемпиона дает заряд, который увеличивает \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n броню на 5%\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивление магии на 5%\n\u003c/div\u003e на 6 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Максимум зарядов\u0026nbsp;– 5; не более 1 за чемпиона.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3211,
+    "name": "Капюшон призрака",
+    "price": 1250,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3211.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Бесплотность:\n\u003c/div\u003e после получения урона от чемпиона дает \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n 150% базового восстановления здоровья\n\u003c/div\u003e. Продолжительность действия\u0026nbsp;– до 10 сек. (продолжительность увеличивается при получении урона)."
+    ]
+  },
+  {
+    "id": 3222,
+    "name": "Благословение Микаэля",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3222.png?v1",
+    "stats": [
+      {
+        "name": "эффективности лечения и щитов",
+        "value": "20%"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "50"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3340,
+    "name": "Скрытый тотем",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3340.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– аксессуар:\n\u003c/div\u003e",
+      " вы устанавливаете ",
+      "\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n невидимый\n\u003c/div\u003e",
+      " для врагов Скрытый тотем, который дает вашей команде обзор в окружающей области в течение ",
+      "\u003cdiv class\u003d\"custom scaleLevel\"\u003e\n 90-120\n\u003c/div\u003e",
+      " сек. Одновременно можно иметь при себе 2 Скрытых тотема, а новые даются каждые ",
+      "\u003cdiv class\u003d\"custom scaleLevel\"\u003e\n 240-120\n\u003c/div\u003e",
+      " сек. "
+    ]
+  },
+  {
+    "id": 3363,
+    "name": "Всевидящая альтернатива",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3363.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– аксессуар:\n\u003c/div\u003e",
+      " вы раскрываете выбранную область и устанавливаете хрупкий видимый тотем на расстоянии до 4000. Союзники не могут выбрать его в качестве цели для заклинаний призывателя или умений ",
+      "\u003cdiv class\u003d\"custom scaleLevel\"\u003e\n (перезарядка – 198-99 сек.)\n\u003c/div\u003e",
+      "."
+    ]
+  },
+  {
+    "id": 3364,
+    "name": "Лупа оракула",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3364.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– аксессуар:\n\u003c/div\u003e",
+      " вы сканируете область вокруг себя, замечая скрытых вражеских бойцов, а также раскрывая невидимые ловушки и вражеские Скрытые тотемы (тотемы при этом временно отключаются) в течение 10 сек. ",
+      "\u003cdiv class\u003d\"custom scaleLevel\"\u003e\n (перезарядка\u0026nbsp;– 90-60 сек.)\n\u003c/div\u003e",
+      "."
+    ]
+  },
+  {
+    "id": 3400,
+    "name": "Твоя доля",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3400.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " дает 0 золота.",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Дополнительное золото, которое получает союзник, когда Пайк казнит вражеского чемпиона с помощью своего абсолютного умения. Если Пайк совершил убийство в одиночку, он оставляет эту долю себе.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3504,
+    "name": "Пылающая кадильница",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3504.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "60"
+      },
+      {
+        "name": "эффективности лечения и щитов",
+        "value": "10%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Освящение:\n\u003c/div\u003e лечение или накладывание щитов на другого союзника усиливает вас обоих на 6 сек. Ваша скорость атаки увеличивается на \n\u003cdiv class\u003d\"custom attackSpeed\"\u003e\n 10-30% (в зависимости от уровня союзника)\n\u003c/div\u003e, а автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 5-20 (в зависимости от уровня союзника) магического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3508,
+    "name": "Похититель сущности",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3508.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "45"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 100% от базовой силы атаки + 40% от дополнительной силы атаки\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e и восстанавливает ману в размере 40% от этого урона (перезарядка – 1.5 сек.)."
+    ]
+  },
+  {
+    "id": 3513,
+    "name": "Глаз герольда",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3513.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Взгляд в Бездну:\n\u003c/div\u003e владелец Глаза герольда может выполнять \n\u003cdiv class\u003d\"custom attention\"\u003e\n усиленное Возвращение\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Если не использовать Глаз герольда в течение 240 сек., он отправляется обратно в Бездну.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3599,
+    "name": "Черное копье Калисты",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3599.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы привязываете себя к союзнику, давая Клятву верности и заключая пакт до конца игры. Клятва верности усиливает вас обоих, когда вы находитесь рядом друг с другом."
+    ]
+  },
+  {
+    "id": 3600,
+    "name": "Черное копье Калисты",
+    "price": 0,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3600.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;– поглощение:\n\u003c/div\u003e",
+      " вы привязываете себя к союзнику, давая Клятву верности и заключая пакт до конца игры. Клятва верности усиливает вас обоих, когда вы находитесь рядом друг с другом.",
+      "\u003cbr\u003e",
+      "\u003cbr\u003e",
+      "\u003cdiv class\u003d\"custom rules\"\u003e\n Требуется для применения абсолютного умения \n \u003cdiv class\u003d\"custom attention\"\u003e\n  Калисты\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3742,
+    "name": "Броня мертвеца",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3742.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "брони",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Губитель кораблей:\n\u003c/div\u003e при передвижении вы постепенно увеличиваете \n\u003cdiv class\u003d\"custom speed\"\u003e\n скорость передвижения\n\u003c/div\u003e на величину вплоть до 40. Ваша следующая автоатака снимает ускорение и дополнительно наносит до \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 40 (+100% от базовой силы атаки) физического урона\n\u003c/div\u003e (в зависимости от накопленной скорости передвижения). Если автоатака применяется чемпионом ближнего боя на максимальной скорости, она также \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляет\n\u003c/div\u003e цель на 50% на 1 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom flavorText\"\u003e\n \u0027\u0027Вы получите эту броню только через мой труп...\u0027\u0027\u0026nbsp;– неизвестный мертвец\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3748,
+    "name": "Титаническая гидра",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3748.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Колосс:\n\u003c/div\u003e дает дополнительную \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n силу атаки в размере 2% от дополнительного здоровья\n\u003c/div\u003e.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Рассечение:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (5 + 1.5% от максимального запаса здоровья) физического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e основной цели и создают ударную волну, которая наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (40 + 3% от максимального запаса здоровья) физического урона\n\u003c/div\u003e врагам за основной целью.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Наносит 75% урона, если владелец\u0026nbsp;– чемпион дальнего боя. Строения также получают урон \n \u003cdiv class\u003d\"custom OnHit\"\u003e\n  при попадании\n \u003c/div\u003e\n \u003cbr\u003eУдарная волна Рассечения не срабатывает при поражении строений.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3801,
+    "name": "Кристаллические наручи",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3801.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "200"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3802,
+    "name": "Потерянная глава",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3802.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      },
+      {
+        "name": "маны",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Просвещение:\n\u003c/div\u003e при получении нового уровня восстанавливает \n\u003cdiv class\u003d\"custom scaleMana\"\u003e\n 20% от максимального запаса маны\n\u003c/div\u003e в течение 3 сек."
+    ]
+  },
+  {
+    "id": 3814,
+    "name": "Грань ночи",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3814.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "50"
+      },
+      {
+        "name": "смертоносности",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Отвод:\n\u003c/div\u003e накладывает щит от заклинаний, который блокирует следующее вражеское умение (перезарядка\u0026nbsp;– 40 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Перезарядка предмета начинается заново, если вы получаете урон от чемпионов до ее окончания.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3850,
+    "name": "Клинок похитителя магии",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3850.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "8"
+      },
+      {
+        "name": "здоровья",
+        "value": "10"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Дань:\n\u003c/div\u003e когда рядом находится союзный чемпион, при поражении вражеских чемпионов и строений умениями, наносящими урон, или автоатаками вы получаете 20 золота. Этот эффект может сработать не более 3 раз за 30 секунд.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 500 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Морозный клык\n\u003c/div\u003e и получить эффект \n\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom active\"\u003e\n Установка тотемов\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот предмет уменьшает количество золота, получаемого за убийство миньонов, если вы убиваете их слишком много.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3851,
+    "name": "Морозный клык",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3851.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "15"
+      },
+      {
+        "name": "здоровья",
+        "value": "70"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "75%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Дань:\n\u003c/div\u003e когда рядом находится союзный чемпион, при поражении вражеских чемпионов и строений умениями, наносящими урон, или автоатаками вы получаете 20 золота. Этот эффект может сработать не более 3 раз за 30 секунд.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 1000 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Осколок Истинного льда\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3853,
+    "name": "Осколок Истинного льда",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3853.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "75"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "100%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3854,
+    "name": "Стальные наплечники",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3854.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "3"
+      },
+      {
+        "name": "здоровья",
+        "value": "30"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трофеи:\n\u003c/div\u003e когда рядом находится союзный чемпион, ваши автоатаки добивают миньонов, у которых осталось меньше (50% для чемпионов ближнего боя | 30% для чемпионов дальнего боя) от их максимального запаса здоровья. При этом вы и ближайший союзный чемпион получаете стандартную награду за убийство. Новый заряд появляется каждые 35 сек. (максимум зарядов\u0026nbsp;– 3).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 500 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Оплечье из рунной стали\n\u003c/div\u003e и получить эффект \n\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom active\"\u003e\n Установка тотемов\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот предмет уменьшает количество золота, получаемого за убийство миньонов, если вы убиваете их слишком много.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3855,
+    "name": "Оплечье из рунной стали",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3855.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "6"
+      },
+      {
+        "name": "здоровья",
+        "value": "100"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трофеи:\n\u003c/div\u003e когда рядом находится союзный чемпион, ваши автоатаки добивают миньонов, у которых осталось меньше 50% от их максимального запаса здоровья. При этом вы и ближайший союзный чемпион получаете стандартную награду за убийство. Новый заряд появляется каждые 35 сек. (максимум зарядов – 3).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 1000 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Оплот горы\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3857,
+    "name": "Эполеты Белого камня",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3857.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "15"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "100%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3858,
+    "name": "Древний щит",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3858.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "5"
+      },
+      {
+        "name": "здоровья",
+        "value": "30"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трофеи:\n\u003c/div\u003e когда рядом находится союзный чемпион, ваши автоатаки добивают миньонов, у которых осталось меньше (50% для чемпионов ближнего боя | 30% для чемпионов дальнего боя) от их максимального запаса здоровья. При этом вы и ближайший союзный чемпион получаете стандартную награду за убийство. Новый заряд появляется каждые 35 сек. (максимум зарядов\u0026nbsp;– 3).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 500 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Баклер Таргона\n\u003c/div\u003e и получить эффект \n\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom active\"\u003e\n Установка тотемов\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот предмет уменьшает количество золота, получаемого за убийство миньонов, если вы убиваете их слишком много.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3859,
+    "name": "Баклер Таргона",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3859.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "10"
+      },
+      {
+        "name": "здоровья",
+        "value": "100"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Трофеи:\n\u003c/div\u003e когда рядом находится союзный чемпион, ваши автоатаки добивают миньонов, у которых осталось меньше 50% от их максимального запаса здоровья. При этом вы и ближайший союзный чемпион получаете стандартную награду за убийство. Новый заряд появляется каждые 35 сек. (максимум зарядов – 3).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 1000 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Оплот горы\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 3860,
+    "name": "Оплот горы",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3860.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "базового восстановления здоровья",
+        "value": "100%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3862,
+    "name": "Призрачный серп",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3862.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "5"
+      },
+      {
+        "name": "здоровья",
+        "value": "10"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Дань:\n\u003c/div\u003e когда рядом находится союзный чемпион, при поражении вражеских чемпионов и строений умениями, наносящими урон, или автоатаками вы получаете 20 золота. Этот эффект может сработать не более 3 раз за 30 секунд.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 500 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityGeneric\"\u003e\n Страховинский крюк\n\u003c/div\u003e и получить эффект \n\u003cdiv class\u003d\"custom active\"\u003e\n Активно\u0026nbsp;–\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom active\"\u003e\n Установка тотемов\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот предмет уменьшает количество золота, получаемого за убийство миньонов, если вы убиваете их слишком много.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3863,
+    "name": "Страховинский крюк",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3863.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "10"
+      },
+      {
+        "name": "здоровья",
+        "value": "60"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "50%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Дань:\n\u003c/div\u003e когда рядом находится союзный чемпион, при поражении вражеских чемпионов и строений умениями, наносящими урон, или автоатаками вы получаете 20 золота. Этот эффект может сработать не более 3 раз за 30 секунд.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Задание:\n\u003c/div\u003e заработайте 1000 золота с помощью этого предмета, чтобы превратить его в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Косу черного тумана\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Этот предмет уменьшает количество золота, получаемого за убийство миньонов, если вы убиваете их слишком много.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 3864,
+    "name": "Коса черного тумана",
+    "price": 400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3864.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "20"
+      },
+      {
+        "name": "здоровья",
+        "value": "75"
+      },
+      {
+        "name": "базового восстановления маны",
+        "value": "100%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 3916,
+    "name": "Сфера забвения",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/3916.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Проклятие:\n\u003c/div\u003e при нанесении магического урона чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4005,
+    "name": "Имперский мандат",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4005.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Координированный огонь:\n\u003c/div\u003e умения, которые \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляют\n\u003c/div\u003e или \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживают\n\u003c/div\u003e чемпиона, дополнительно наносят ему \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 45-75 (в зависимости от уровня) магического урона\n\u003c/div\u003e и помечают на 4 сек. (перезарядка – 6 сек. для каждого чемпиона). Урон союзных чемпионов снимает эту метку\u0026nbsp;– при этом цель получает \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 90-150 (в зависимости от уровня союзника) магического урона\n\u003c/div\u003e, а ваша \n\u003cdiv class\u003d\"custom speed\"\u003e\n скорость передвижения увеличивается на 20%\n\u003c/div\u003e на 2 сек. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 15\n\u003c/div\u003e силы умений. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4401,
+    "name": "Сила природы",
+    "price": 2900,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4401.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "70"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Поглощение:\n\u003c/div\u003e при получении \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n магического урона\n\u003c/div\u003e от вражеских чемпионов вы получаете заряд \n\u003cdiv class\u003d\"custom attention\"\u003e\n Непоколебимости\n\u003c/div\u003e (максимум зарядов – 6) на 7 сек. Вражеские эффекты \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживания\n\u003c/div\u003e дают еще 2 заряда.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Рассеивание:\n\u003c/div\u003e когда у вас накапливается 6 зарядов \n\u003cdiv class\u003d\"custom attention\"\u003e\n Непоколебимости\n\u003c/div\u003e, вы начинаете получать на \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 25% меньше магического урона\n\u003c/div\u003e и увеличиваете скорость передвижения на 10%.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Каждое умение может давать заряды \n \u003cdiv class\u003d\"custom attention\"\u003e\n  Непоколебимости\n \u003c/div\u003e не чаще чем раз в 1 сек.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4403,
+    "name": "Золотая лопатка",
+    "price": 7387,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4403.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "70"
+      },
+      {
+        "name": "силы умений",
+        "value": "120"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "50%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "30%"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "брони",
+        "value": "30"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "30"
+      },
+      {
+        "name": "маны",
+        "value": "250"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Хоть что-то:\n\u003c/div\u003e вы навсегда получаете эффект В огне!"
+    ]
+  },
+  {
+    "id": 4628,
+    "name": "Хекстековый прицел",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4628.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "85"
+      },
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Гипервыстрел:\n\u003c/div\u003e если вы наносите урон чемпиону с помощью умения, для которого не требуется выбор цели, на расстоянии более 700 или \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляете\n\u003c/div\u003e либо \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживаете\n\u003c/div\u003e его, он \n\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n раскрывается\n\u003c/div\u003e и получает от вас на 10% больше урона в течение 6 сек. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Прибавка к урону действует и на умение, от которого сработал \n \u003cdiv class\u003d\"custom passive\"\u003e\n  Гипервыстрел\n \u003c/div\u003e. Питомцы и необездвиживающие ловушки не накладывают этот эффект. Кроме того, его накладывает лишь первое срабатывание умений, действующих по площади. Расстояние рассчитывается от места применения умения.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4629,
+    "name": "Космический ускоритель",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4629.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "65"
+      },
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Магический танец:\n\u003c/div\u003e нанеся урон чемпионам 3 отдельными атаками или умениями, вы получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 15% скорости передвижения\n\u003c/div\u003e (уменьшается до \n\u003cdiv class\u003d\"custom speed\"\u003e\n 5%\n\u003c/div\u003e) и \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n 40 силы умений\n\u003c/div\u003e до выхода из боя с чемпионами.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 4630,
+    "name": "Вредоносный самоцвет",
+    "price": 1250,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4630.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 4632,
+    "name": "Изумрудный оберег",
+    "price": 1000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4632.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Адаптивность:\n\u003c/div\u003e при убийстве бойца дает \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n 0.3 сопротивления магии\n\u003c/div\u003e (максимальная прибавка\u0026nbsp;– \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n 9\n\u003c/div\u003e). \u003cbr\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 4633,
+    "name": "Творец разломов",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4633.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "15"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Разложение Бездны:\n\u003c/div\u003e каждую секунду нанесения урона вражеским чемпионам ваш урон увеличивается на 3% (вплоть до 9%). При максимальной силе дополнительный урон становится \n\u003cdiv class\u003d\"custom trueDamage\"\u003e\n чистым\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2%\n\u003c/div\u003e всестороннего вытягивания жизни и 8 силы умений."
+    ]
+  },
+  {
+    "id": 4635,
+    "name": "Губительный взор",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4635.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 4636,
+    "name": "Ночной жнец",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4636.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "90"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Разрыв души:\n\u003c/div\u003e при нанесении урона чемпиону вы дополнительно наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (125 + 15% от силы умений) магического урона\n\u003c/div\u003e и получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 25% скорости передвижения\n\u003c/div\u003e на 1.5 сек. (перезарядка для каждого чемпиона – 40 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Продолжительность прибавки к скорости передвижения увеличивается при нанесении урона новому чемпиону.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4637,
+    "name": "Объятия демона",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4637.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "60"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Взор азакан:\n\u003c/div\u003e когда ваши умения наносят урон чемпиону, они поджигают его и дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n магический урон в размере 2/1.2% (ближний бой / дальний бой) от максимального запаса здоровья\n\u003c/div\u003e каждую секунду в течение 4 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Темный пакт:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n силу умений\n\u003c/div\u003e в размере 2% от вашего \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n дополнительного здоровья\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 4638,
+    "name": "Бдительный защитный камень",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4638.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тайник:\n\u003c/div\u003e этот предмет может хранить до 3 купленных Тотемов контроля.\u003cbr\u003e\u003cbr\u003eПосле выполнения \n\u003cdiv class\u003d\"custom keywordMajor\"\u003e\n задания поддержки\n\u003c/div\u003e и достижения 13-го уровня превращается в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Неусыпный защитный камень\n\u003c/div\u003e.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 4641,
+    "name": "Зоркий защитный камень",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4641.png?v1",
+    "stats": [],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тайник:\n\u003c/div\u003e этот предмет может хранить до 3 купленных Тотемов контроля.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Расцвет империи:\n\u003c/div\u003e этот предмет превращается в \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n Бдительный защитный камень\n\u003c/div\u003e, когда вы устанавливаете 20 Скрытых тотемов.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Скрытые тотемы можно размещать с помощью аксессуара или улучшенных предметов типа \n \u003cdiv class\u003d\"custom attention\"\u003e\n  Уникально: поддержка\n \u003c/div\u003e.\n\u003c/div\u003e\u003cbr\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 4642,
+    "name": "Зеркало йордлов",
+    "price": 950,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4642.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "20"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 4643,
+    "name": "Неусыпный защитный камень",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4643.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "150"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тайник:\n\u003c/div\u003e этот предмет может хранить до 3 купленных Тотемов контроля.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Созерцание:\n\u003c/div\u003e увеличивает максимальное количество Скрытых тотемов и Тотемов контроля, которые можно установить одновременно, на 1.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благословение Ишталя:\n\u003c/div\u003e увеличивает дополнительное здоровье, дополнительную силу атаки, ускорение умений и силу умений на 12%.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Улучшение \n \u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n  Бдительного защитного камня\n \u003c/div\u003e.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 4644,
+    "name": "Венец Расколотой королевы",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4644.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "60"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "маны",
+        "value": "600"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Божественная защита:\n\u003c/div\u003e вы находитесь под \n\u003cdiv class\u003d\"custom keywordMajor\"\u003e\n Защитой\n\u003c/div\u003e и получаете на 75% меньше урона от чемпионов. \n\u003cdiv class\u003d\"custom keywordMajor\"\u003e\n Защита\n\u003c/div\u003e действует 1.5 сек. после получения урона от чемпионов. (Перезарядка – 40 сек.)",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Святой дар:\n\u003c/div\u003e во время действия \n\u003cdiv class\u003d\"custom keywordMajor\"\u003e\n Защиты\n\u003c/div\u003e и в течение 3 сек. после снятия эффекта ваша \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n сила умений\n\u003c/div\u003e увеличена на \n\u003cdiv class\u003d\"custom scaleAP\"\u003e\n 10-40\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 1%\n\u003c/div\u003e скорости передвижения и 8 силы умений."
+    ]
+  },
+  {
+    "id": 4645,
+    "name": "Сумрачное пламя",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/4645.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "100"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Огненный цветок:\n\u003c/div\u003e при нанесении урона чемпионам вы получаете от 10 до 20 дополнительного \n\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n магического пробивания\n\u003c/div\u003e в зависимости от текущего запаса \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n здоровья\n\u003c/div\u003e цели (максимальная прибавка достигается при 1000 здоровья или менее). Прибавка достигает максимума, если на цель недавно накладывались щиты (20 дополнительного \n\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n магического пробивания\n\u003c/div\u003e)."
+    ]
+  },
+  {
+    "id": 6029,
+    "name": "Железный кнут",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6029.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6035,
+    "name": "Сильвермирская заря",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6035.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6333,
+    "name": "Танец смерти",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6333.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "брони",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Игнорирование боли:\n\u003c/div\u003e 30% (10% для чемпионов дальнего боя) входящего урона наносится не сразу, а в течение 3 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Неповиновение:\n\u003c/div\u003e участия в убийствах чемпионов отменяют оставшийся урон \n\u003cdiv class\u003d\"custom passive\"\u003e\n Игнорирования боли\n\u003c/div\u003e и восстанавливают \n\u003cdiv class\u003d\"custom healing\"\u003e\n здоровье в размере 175% от дополнительной силы атаки\n\u003c/div\u003e в течение 2 сек."
+    ]
+  },
+  {
+    "id": 6609,
+    "name": "Нож-пила химпанка",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6609.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "45"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Инфекция:\n\u003c/div\u003e при нанесении физического урона вражеским чемпионам накладывает на них \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшные раны (40%)\n\u003c/div\u003e на 3 сек. Если у цели меньше 50% здоровья, эффективность \n\u003cdiv class\u003d\"custom status\"\u003e\n Страшных ран\n\u003c/div\u003e увеличивается до \n\u003cdiv class\u003d\"custom status\"\u003e\n 60%\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom status\"\u003e\n  Страшные раны\n \u003c/div\u003e уменьшают силу эффектов лечения и регенерации.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 6616,
+    "name": "Посох водного потока",
+    "price": 2300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6616.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "50"
+      },
+      {
+        "name": "эффективности лечения и щитов",
+        "value": "10%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Стремнина:\n\u003c/div\u003e при лечении другого союзника или накладывании на него щита вы оба получаете \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 25-45 силы умений\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 20 ускорения умений\n\u003c/div\u003e на 4 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 6617,
+    "name": "Исцеляющий лунный камень",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6617.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "200"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Подарок звезд:\n\u003c/div\u003e при применении автоатак или умений к чемпионам в бою вы восстанавливаете самому раненому союзнику поблизости \n\u003cdiv class\u003d\"custom healing\"\u003e\n 70 здоровья\n\u003c/div\u003e (перезарядка – 2 сек.). За каждую секунду в бою с чемпионами ваша эффективность лечения и щитов увеличивается на 7% (суммируется до 5 раз).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают прибавку к эффективности лечения \n\u003cdiv class\u003d\"custom passive\"\u003e\n Подарка звезд\n\u003c/div\u003e – \n\u003cdiv class\u003d\"custom attention\"\u003e\n 10\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 6630,
+    "name": "Потрошитель",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6630.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6631,
+    "name": "Костолом",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6631.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "50"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "20%"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Походка героя:\n\u003c/div\u003e при нанесении физического урона вы получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 20 скорости передвижения\n\u003c/div\u003e на 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2%\n\u003c/div\u003e скорости передвижения."
+    ]
+  },
+  {
+    "id": 6632,
+    "name": "Сокрушитель богов",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6632.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "40"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 12% (9% для чемпионов дальнего боя) от текущего запаса здоровья цели\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка – 1.5 сек.). Если цель – чемпион, лечит на 65% от нанесенного урона (на 40%, если владелец – чемпион дальнего боя).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e пробивания брони и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e магического пробивания.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom passive\"\u003e\n  Чародейский клинок\n \u003c/div\u003e наносит не менее (150% от базовой силы атаки) урона бойцам, но не более (250% от базовой силы атаки) урона монстрам.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 6653,
+    "name": "Страдания Лиандри",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6653.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      },
+      {
+        "name": "маны",
+        "value": "600"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Агония:\n\u003c/div\u003e вы дополнительно наносите чемпионам до \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 12% магического урона\n\u003c/div\u003e в зависимости от их дополнительного здоровья (урон достигает максимума при 1250 дополнительного здоровья).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Мучения:\n\u003c/div\u003e при нанесении урона умениями вы поджигаете врагов, нанося им \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n магический урон в размере (15 + 1.5% от силы умений) + 1% от максимального запаса здоровья\n\u003c/div\u003e в секунду в течение 4 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений."
+    ]
+  },
+  {
+    "id": 6655,
+    "name": "Буря Людена",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6655.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "80"
+      },
+      {
+        "name": "магического пробивания",
+        "value": "6"
+      },
+      {
+        "name": "маны",
+        "value": "600"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Эхо:\n\u003c/div\u003e умения, наносящие урон, дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (100 + 10% от силы умений) магического урона\n\u003c/div\u003e цели и 3 врагам поблизости, а также дают вам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 15% скорости передвижения\n\u003c/div\u003e на 2 сек. (перезарядка – 10 сек.). При нанесении урона чемпионам с помощью умений перезарядка этого предмета сокращается на 0.5 сек. Максимальное сокращение – 3 сек. за одно применение умения.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e магического пробивания."
+    ]
+  },
+  {
+    "id": 6656,
+    "name": "Вечный холод",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6656.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "70"
+      },
+      {
+        "name": "здоровья",
+        "value": "250"
+      },
+      {
+        "name": "маны",
+        "value": "600"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6660,
+    "name": "Пепел Бами",
+    "price": 1100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6660.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (15 + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 25% против монстров). Эффект длится 3 сек."
+    ]
+  },
+  {
+    "id": 6662,
+    "name": "Рукавица ледяного пламени",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6662.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      },
+      {
+        "name": "брони",
+        "value": "25"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (12 + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 150% против монстров). Эффект длится 3 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Гололед:\n\u003c/div\u003e автоатаки создают ледяное поле на 1.5 сек. и дополнительно наносят (12-85 / 6-42,5) магического урона всем врагам в этой области (перезарядка\u0026nbsp;– 4 сек., перезарядка для чемпионов дальнего боя\u0026nbsp;– 6 сек.). Враги, ступающие на поле, \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляются\n\u003c/div\u003e: чемпионы ближнего боя на 25%, а чемпионы дальнего боя на 12.5% (сила замедления зависит от вашего \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n максимального запаса здоровья\n\u003c/div\u003e).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 100\n\u003c/div\u003e здоровья и увеличивают размер на \n\u003cdiv class\u003d\"custom attention\"\u003e\n 6%\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 6664,
+    "name": "Реактивный химдоспех",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6664.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "350"
+      },
+      {
+        "name": "брони",
+        "value": "25"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6670,
+    "name": "Полуденный колчан",
+    "price": 1300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6670.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Точность:\n\u003c/div\u003e автоатаки дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 20 физического урона\n\u003c/div\u003e миньонам и монстрам."
+    ]
+  },
+  {
+    "id": 6671,
+    "name": "Сила шторма",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6671.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "60"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6672,
+    "name": "Убийца кракенов",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6672.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "65"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тяжелая артиллерия:\n\u003c/div\u003e каждая третья автоатака дополнительно наносит \n\u003cdiv class\u003d\"custom trueDamage\"\u003e\n (60 + 45% от дополнительной силы атаки) чистого урона\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 10%\n\u003c/div\u003e скорости атаки."
+    ]
+  },
+  {
+    "id": 6673,
+    "name": "Арбалет бессмертия",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6673.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "50"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "20%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни:\n\u003c/div\u003e при получении урона, после которого ваш уровень здоровья опускается ниже 30%, вы получаете \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью 275-650\n\u003c/div\u003e на 3 сек. Кроме того, вы получаете \n\u003cdiv class\u003d\"custom attackDamage\"\u003e\n 15-35 силы атаки\n\u003c/div\u003e на 8 сек. (90 сек. ).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e силы атаки и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 50\n\u003c/div\u003e здоровья."
+    ]
+  },
+  {
+    "id": 6675,
+    "name": "Быстрые клинки Навори",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6675.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "60"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Искусные удары:\n\u003c/div\u003e критические удары с помощью автоатак сокращают оставшуюся перезарядку неабсолютных умений на 20%."
+    ]
+  },
+  {
+    "id": 6676,
+    "name": "Сборщик долгов",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6676.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Последний долг:\n\u003c/div\u003e если вы наносите вражескому чемпиону урон, после которого у него остается менее 5% здоровья, он погибает. Убийства чемпионов дополнительно приносят 25 золота."
+    ]
+  },
+  {
+    "id": 6677,
+    "name": "Нож ярости",
+    "price": 800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6677.png?v1",
+    "stats": [
+      {
+        "name": "скорости атаки",
+        "value": "25%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Гнев:\n\u003c/div\u003e ваш шанс критического удара превращается в урон \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e – \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n 35 физического урона\n\u003c/div\u003e за каждые 20% шанса критического удара."
+    ]
+  },
+  {
+    "id": 6691,
+    "name": "Сумеречный клинок Драктарра",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6691.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "60"
+      },
+      {
+        "name": "смертоносности",
+        "value": "18"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ночной охотник:\n\u003c/div\u003e автоатаки против чемпионов дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (75 + 30% от дополнительной силы атаки для чемпионов ближнего боя / 55 + 25% от дополнительной силы атаки для чемпионов дальнего боя) физического урона\n\u003c/div\u003e (перезарядка – 15 сек.). Если владелец – чемпион ближнего боя, эта автоатака также \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляет\n\u003c/div\u003e цель на 99% на 0.25 сек. Если чемпион, которому вы наносили урон в течение последних 3 сек., умирает, перезарядка эффекта сбрасывается, а вы становитесь \n\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n невидимым\n\u003c/div\u003e на 1.5 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 6692,
+    "name": "Затмение",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6692.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "смертоносности",
+        "value": "18"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восходящая луна:\n\u003c/div\u003e при поражении чемпиона 2 отдельными автоатаками или умениями в течение 1.5 сек. вы дополнительно наносите \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 6% от максимального запаса здоровья\n\u003c/div\u003e, а также получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 15% скорости передвижения\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью (180 + 40% от дополнительной силы атаки) (прочность щита для чемпионов дальнего боя составляет 50%)\n\u003c/div\u003e на 2 сек. (перезарядка\u0026nbsp;– 8 сек., перезарядка для чемпионов дальнего боя\u0026nbsp;– 16 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 4%\n\u003c/div\u003e пробивания брони."
+    ]
+  },
+  {
+    "id": 6693,
+    "name": "Коготь охотника",
+    "price": 3100,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6693.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "60"
+      },
+      {
+        "name": "смертоносности",
+        "value": "18"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 6694,
+    "name": "Злоба Серильды",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6694.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "45"
+      },
+      {
+        "name": "пробивания брони",
+        "value": "30%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Лютый холод:\n\u003c/div\u003e умения, наносящие урон, \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляют\n\u003c/div\u003e врагов на 30% на 1 сек."
+    ]
+  },
+  {
+    "id": 6695,
+    "name": "Змеиный клык",
+    "price": 2600,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6695.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Уничтожитель щитов:\n\u003c/div\u003e при нанесении урона вражескому чемпиону вы уменьшаете прочность всех накладываемых на него щитов на (50% | 35% для чемпионов дальнего боя) на 3 сек. При нанесении урона врагу, на которого не действует Уничтожитель щитов, вы уменьшаете прочность всех наложенных на него щитов на (50% | 35% для чемпионов дальнего боя).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Дополнительный урон не наносится целям, на которые наложен щит, блокирующий только магический урон.\n \u003cbr\u003eУ этого предмета разная эффективность для чемпионов ближнего и дальнего боя.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 6696,
+    "name": "Шакрам Аксиом",
+    "price": 3000,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/6696.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "смертоносности",
+        "value": "10"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Непрерывность:\n\u003c/div\u003e сокращает перезарядку абсолютного умения на 20% от максимального значения, когда вражеский чемпион погибает в течение 3 сек. после того, как вы нанесли ему урон."
+    ]
+  },
+  {
+    "id": 7000,
+    "name": "Коготь пустынного сорокопута",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7000.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "75"
+      },
+      {
+        "name": "смертоносности",
+        "value": "26"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 7001,
+    "name": "Сизигия",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7001.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "75"
+      },
+      {
+        "name": "смертоносности",
+        "value": "26"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Восходящая луна:\n\u003c/div\u003e при поражении чемпиона 2 отдельными автоатаками или умениями в течение 1.5 сек. вы дополнительно наносите \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 6% от максимального запаса здоровья\n\u003c/div\u003e, а также получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 15% скорости передвижения\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью (150 + 40% от дополнительной силы атаки) (100 + 30% от дополнительной силы атаки для чемпионов дальнего боя)\n\u003c/div\u003e на 0.1 сек. (перезарядка\u0026nbsp;– 8 сек., перезарядка для чемпионов дальнего боя\u0026nbsp;– 16 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 4%\n\u003c/div\u003e пробивания брони."
+    ]
+  },
+  {
+    "id": 7002,
+    "name": "Теневой кинжал Драктарра",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7002.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "75"
+      },
+      {
+        "name": "смертоносности",
+        "value": "26"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Ночной охотник:\n\u003c/div\u003e автоатаки против чемпионов дополнительно наносят \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (65 + 25% от дополнительной силы атаки) физического урона\n\u003c/div\u003e (перезарядка – 15 сек.). Если владелец – чемпион ближнего боя, эта автоатака также \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляет\n\u003c/div\u003e цель на 99% на 0.25 сек. Если чемпион, которому вы наносили урон в течение последних 3 сек., умирает, перезарядка эффекта сбрасывается, а вы становитесь \n\u003cdiv class\u003d\"custom keywordStealth\"\u003e\n невидимым\n\u003c/div\u003e на 1.5 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 7003,
+    "name": "Турбированный хекс-образец",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7003.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "500"
+      },
+      {
+        "name": "брони",
+        "value": "40"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (20-40 (в зависимости от уровня) + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 150% против монстров). Эффект длится 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений"
+    ]
+  },
+  {
+    "id": 7004,
+    "name": "Герб кузнечного пламени",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7004.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "500"
+      },
+      {
+        "name": "брони",
+        "value": "45"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "45"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (20-40 (в зависимости от уровня) + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 150% против монстров). Эффект длится 3 сек. Когда этот эффект наносит урон чемпионам или эпическим монстрам, вы получаете заряд, который увеличивает последующий урон \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e на 12% на 5 сек. (максимум зарядов\u0026nbsp;– 6).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Пламенное касание:\n\u003c/div\u003e при максимальном количестве зарядов \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e ваши автоатаки поджигают врагов поблизости и заставляют их получать ежесекундный урон \n\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожения\n\u003c/div\u003e в течение 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e стойкости и устойчивости к замедлению."
+    ]
+  },
+  {
+    "id": 7005,
+    "name": "Морозная хватка",
+    "price": 2800,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7005.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "500"
+      },
+      {
+        "name": "брони",
+        "value": "40"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Изничтожение:\n\u003c/div\u003e при получении или нанесении урона вы начинаете наносить окружающим врагам \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (20-40 (в зависимости от уровня) + 1% от дополнительного здоровья) магического урона\n\u003c/div\u003e в секунду (урон увеличивается на 25% против миньонов и на 150% против монстров). Эффект длится 3 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Гололед:\n\u003c/div\u003e автоатаки создают ледяное поле на 1.5 сек. (перезарядка\u0026nbsp;– 4 сек., перезарядка для чемпионов дальнего боя\u0026nbsp;– 6 сек.). Враги, ступающие на поле, \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляются\n\u003c/div\u003e: чемпионы ближнего боя на 25%, а чемпионы дальнего боя на 12.5% (сила замедления зависит от вашего \n\u003cdiv class\u003d\"custom scaleHealth\"\u003e\n максимального запаса здоровья\n\u003c/div\u003e).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 100\n\u003c/div\u003e здоровья и увеличивают размер на \n\u003cdiv class\u003d\"custom attention\"\u003e\n 6%\n\u003c/div\u003e."
+    ]
+  },
+  {
+    "id": 7006,
+    "name": "Тайфун",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7006.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "80"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "35%"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 7007,
+    "name": "Погибель змеев",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7007.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "85"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "40%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тяжелая артиллерия:\n\u003c/div\u003e каждая третья автоатака дополнительно наносит \n\u003cdiv class\u003d\"custom trueDamage\"\u003e\n (60 + 45% от дополнительной силы атаки) чистого урона\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 10%\n\u003c/div\u003e скорости атаки."
+    ]
+  },
+  {
+    "id": 7008,
+    "name": "Кровавый арбалет",
+    "price": 3400,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7008.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "70"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "30%"
+      },
+      {
+        "name": "шанса критического удара",
+        "value": "20%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Линия жизни:\n\u003c/div\u003e при получении урона, после которого ваш уровень здоровья опускается ниже 30%, вы получаете \n\u003cdiv class\u003d\"custom shield\"\u003e\n щит прочностью 250-700\n\u003c/div\u003e на 3 сек. Кроме того, вы получаете \n\u003cdiv class\u003d\"custom attackDamage\"\u003e\n 15-35 силы атаки\n\u003c/div\u003e на 8 сек. (90 сек. ).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e силы атаки и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 50\n\u003c/div\u003e здоровья."
+    ]
+  },
+  {
+    "id": 7009,
+    "name": "Проклятие Икатии",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7009.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "100"
+      },
+      {
+        "name": "здоровья",
+        "value": "450"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "20"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Разложение Бездны:\n\u003c/div\u003e каждую секунду нанесения урона вражеским чемпионам ваш урон увеличивается на 3% (вплоть до 9%). При максимальной силе дополнительный урон становится \n\u003cdiv class\u003d\"custom trueDamage\"\u003e\n чистым\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2%\n\u003c/div\u003e всестороннего вытягивания жизни и 8 силы умений."
+    ]
+  },
+  {
+    "id": 7010,
+    "name": "Сумеречный жнец",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7010.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "120"
+      },
+      {
+        "name": "здоровья",
+        "value": "400"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Разрыв души:\n\u003c/div\u003e при нанесении урона чемпиону вы дополнительно наносите \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (125 + 15% от силы умений) магического урона\n\u003c/div\u003e и получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 25% скорости передвижения\n\u003c/div\u003e на 1.5 сек. (перезарядка для каждого чемпиона – 40 сек.).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Продолжительность прибавки к скорости передвижения увеличивается при нанесении урона новому чемпиону.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 7011,
+    "name": "Улучшенный аэроранец",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7011.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "120"
+      },
+      {
+        "name": "магического пробивания",
+        "value": "10"
+      },
+      {
+        "name": "здоровья",
+        "value": "350"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 7012,
+    "name": "Стенания Лиандри",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7012.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "110"
+      },
+      {
+        "name": "маны",
+        "value": "800"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Агония:\n\u003c/div\u003e вы дополнительно наносите чемпионам до \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 12% магического урона\n\u003c/div\u003e в зависимости от их дополнительного здоровья (урон достигает максимума при 1250 дополнительного здоровья).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Мучения:\n\u003c/div\u003e при нанесении урона умениями вы поджигаете врагов, нанося им \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n магический урон в размере (15 + 1.5% от силы умений) + 1% от максимального запаса здоровья\n\u003c/div\u003e в секунду в течение 4 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений."
+    ]
+  },
+  {
+    "id": 7013,
+    "name": "Глаз Людена",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7013.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "100"
+      },
+      {
+        "name": "магического пробивания",
+        "value": "10"
+      },
+      {
+        "name": "маны",
+        "value": "800"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Эхо:\n\u003c/div\u003e умения, наносящие урон, дополнительно наносят \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n (100 + 10% от силы умений) магического урона\n\u003c/div\u003e цели и 3 врагам поблизости, а также дают вам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 15% скорости передвижения\n\u003c/div\u003e на 2 сек. (перезарядка – 10 сек.). При нанесении урона чемпионам с помощью умений перезарядка этого предмета сокращается на 0.5 сек. Максимальное сокращение – 3 сек. за одно применение умения.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e магического пробивания."
+    ]
+  },
+  {
+    "id": 7014,
+    "name": "Вечная зима",
+    "price": 3200,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7014.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "100"
+      },
+      {
+        "name": "здоровья",
+        "value": "350"
+      },
+      {
+        "name": "маны",
+        "value": "800"
+      }
+    ],
+    "itemDescriptionHtml": []
+  },
+  {
+    "id": 7015,
+    "name": "Бесконечный голод",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7015.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "60"
+      },
+      {
+        "name": "здоровья",
+        "value": "550"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Закипание:\n\u003c/div\u003e дает \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n 1% силы атаки\n\u003c/div\u003e за каждые 5% недостающего здоровья (вплоть до \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n 15%\n\u003c/div\u003e).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений."
+    ]
+  },
+  {
+    "id": 7016,
+    "name": "Разрушитель грез",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7016.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "30%"
+      },
+      {
+        "name": "здоровья",
+        "value": "400"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Походка героя:\n\u003c/div\u003e при нанесении физического урона вы получаете \n\u003cdiv class\u003d\"custom speed\"\u003e\n 20 скорости передвижения\n\u003c/div\u003e на 3 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2%\n\u003c/div\u003e скорости передвижения."
+    ]
+  },
+  {
+    "id": 7017,
+    "name": "Богоубийца",
+    "price": 3300,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7017.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "55"
+      },
+      {
+        "name": "здоровья",
+        "value": "550"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n физический урон в размере 12% (9% для чемпионов дальнего боя) от максимального запаса здоровья цели\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка – 1.5 сек.). Если цель – чемпион, лечит на 50% от нанесенного урона (на 30%, если владелец – чемпион дальнего боя).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e пробивания брони и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5%\n\u003c/div\u003e магического пробивания.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n \u003cdiv class\u003d\"custom passive\"\u003e\n  Чародейский клинок\n \u003c/div\u003e наносит не менее (150% от базовой силы атаки) урона бойцам, но не более (250% от базовой силы атаки) урона монстрам.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 7018,
+    "name": "Вечный Союз",
+    "price": 3333,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7018.png?v1",
+    "stats": [
+      {
+        "name": "силы атаки",
+        "value": "45"
+      },
+      {
+        "name": "скорости атаки",
+        "value": "40%"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Тройной удар:\n\u003c/div\u003e ваши автоатаки дают вам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 20 скорости передвижения\n\u003c/div\u003e на 3 сек. Если цель\u0026nbsp;– чемпион, вы дополнительно увеличиваете \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n базовую силу атаки на 6%\n\u003c/div\u003e на 3 сек. (суммируется до 5 раз; максимальная прибавка\u0026nbsp;– \n\u003cdiv class\u003d\"custom scaleAD\"\u003e\n 30% силы атаки\n\u003c/div\u003e).",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Чародейский клинок:\n\u003c/div\u003e ваша следующая автоатака после применения умения дополнительно наносит \n\u003cdiv class\u003d\"custom physicalDamage\"\u003e\n (200% от базовой силы атаки) физического урона\n\u003c/div\u003e \n\u003cdiv class\u003d\"custom OnHit\"\u003e\n при попадании\n\u003c/div\u003e (перезарядка\u0026nbsp;– 1.5 сек.). \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e силы атаки, \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e ускорения умений и \n\u003cdiv class\u003d\"custom attention\"\u003e\n 3\n\u003c/div\u003e скорости передвижения"
+    ]
+  },
+  {
+    "id": 7019,
+    "name": "Реликварий золотого рассвета",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7019.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "400"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "25"
+      },
+      {
+        "name": "брони",
+        "value": "40"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Благо:\n\u003c/div\u003e дает союзным чемпионам поблизости \n\u003cdiv class\u003d\"custom scaleArmor\"\u003e\n 5 брони\n\u003c/div\u003e и \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивления магии\n\u003c/div\u003e. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают прибавку к эффективности \n\u003cdiv class\u003d\"custom passive\"\u003e\n Блага\n\u003c/div\u003e\u0026nbsp;– \n\u003cdiv class\u003d\"custom attention\"\u003e\n 2\n\u003c/div\u003e брони и сопротивления магии.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n \u003cbr\u003eПрочность новых щитов \n \u003cdiv class\u003d\"custom active\"\u003e\n  Преданности\n \u003c/div\u003e, наложенных в течение 20 сек., составляет 25%.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 7020,
+    "name": "Реквием Шурелии",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7020.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "25"
+      },
+      {
+        "name": "скорости передвижения",
+        "value": "0%"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Мотивация:\n\u003c/div\u003e при усилении или защите другого союзного чемпиона дает обоим союзникам \n\u003cdiv class\u003d\"custom speed\"\u003e\n 25% скорости передвижения\n\u003c/div\u003e на 1.5 сек.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 5\n\u003c/div\u003e ускорения умений.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Перезарядка \n \u003cdiv class\u003d\"custom keywordMajor\"\u003e\n  Мотивации\n \u003c/div\u003e для каждого союзника – 4 сек.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 7021,
+    "name": "Звездный талисман",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7021.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "70"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Подарок звезд:\n\u003c/div\u003e при применении автоатак или умений к чемпионам в бою вы восстанавливаете самому раненому союзнику поблизости \n\u003cdiv class\u003d\"custom healing\"\u003e\n 70 здоровья\n\u003c/div\u003e (перезарядка – 2 сек.). За каждую секунду в бою с чемпионами ваша эффективность лечения и щитов увеличивается на 7% (суммируется до 5 раз).\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают прибавку к эффективности лечения \n\u003cdiv class\u003d\"custom passive\"\u003e\n Подарка звезд\n\u003c/div\u003e – \n\u003cdiv class\u003d\"custom attention\"\u003e\n 10\n\u003c/div\u003e.\u003cbr\u003e\u003cbr\u003e"
+    ]
+  },
+  {
+    "id": 7022,
+    "name": "Трон владыки",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/7022.png?v1",
+    "stats": [
+      {
+        "name": "силы умений",
+        "value": "70"
+      },
+      {
+        "name": "здоровья",
+        "value": "300"
+      },
+      {
+        "name": "ускорения умений",
+        "value": "25"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Координированный огонь:\n\u003c/div\u003e умения, которые \n\u003cdiv class\u003d\"custom status\"\u003e\n замедляют\n\u003c/div\u003e или \n\u003cdiv class\u003d\"custom status\"\u003e\n обездвиживают\n\u003c/div\u003e чемпиона, дополнительно наносят ему \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 36-60 (в зависимости от уровня) магического урона\n\u003c/div\u003e и помечают на 4 сек. (перезарядка – 6 сек. для каждого чемпиона). Урон союзных чемпионов снимает эту метку\u0026nbsp;– при этом цель получает \n\u003cdiv class\u003d\"custom magicDamage\"\u003e\n 90-150 (в зависимости от уровня союзника) магического урона\n\u003c/div\u003e, а ваша \n\u003cdiv class\u003d\"custom speed\"\u003e\n скорость передвижения увеличивается на 20%\n\u003c/div\u003e на 2 сек. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rarityMythic\"\u003e\n Мифический пассивный эффект:\n\u003c/div\u003e все остальные \n\u003cdiv class\u003d\"custom rarityLegendary\"\u003e\n легендарные\n\u003c/div\u003e предметы дают \n\u003cdiv class\u003d\"custom attention\"\u003e\n 15\n\u003c/div\u003e силы умений. \u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Сила эффектов зависит от уровня союзника.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 8001,
+    "name": "Цепи проклятия",
+    "price": 2500,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/8001.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "650"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Вендетта:\n\u003c/div\u003e заклятый враг наносит вам на 1% меньше урона за каждый заряд Вендетты (максимальное уменьшение – 30%). Заряды накапливаются постепенно, а их максимальное количество достигается через 60 сек.",
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Возмездие:\n\u003c/div\u003e при максимальном количестве зарядов стойкость вашего заклятого врага уменьшается на 20%, когда он находится около вас.\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom rules\"\u003e\n Активный эффект можно применять во время возрождения и на любом расстоянии. При выборе новой цели количество зарядов сбрасывается. Нельзя применять в течение 15 секунд после участия в бою с чемпионами.\n\u003c/div\u003e\u003cbr\u003e\u003cbr\u003e\n\u003cdiv class\u003d\"custom flavorText\"\u003e\n \u0027\u0027Она поклялась посвятить жизнь его уничтожению. Рукавицы ее услышали\u0027\u0027.\n\u003c/div\u003e"
+    ]
+  },
+  {
+    "id": 8020,
+    "name": "Маска пустоты",
+    "price": 2700,
+    "imageUrl": "https://fastcdn.mobalytics.gg/assets/lol/images/dd/game-items/8020.png?v1",
+    "stats": [
+      {
+        "name": "здоровья",
+        "value": "450"
+      },
+      {
+        "name": "сопротивления магии",
+        "value": "30"
+      }
+    ],
+    "itemDescriptionHtml": [
+      "\u003cdiv class\u003d\"custom passive\"\u003e\n Уничтожение:\n\u003c/div\u003e вы \n\u003cdiv class\u003d\"custom status\"\u003e\n проклинаете\n\u003c/div\u003e вражеских чемпионов поблизости, уменьшая их \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n сопротивление магии на 5 + 1% от дополнительного здоровья\n\u003c/div\u003e (максимум – 20). За каждого \n\u003cdiv class\u003d\"custom status\"\u003e\n проклятого\n\u003c/div\u003e врага вы получаете \n\u003cdiv class\u003d\"custom scaleMR\"\u003e\n 7 сопротивления магии\n\u003c/div\u003e."
+    ]
+  }
+]

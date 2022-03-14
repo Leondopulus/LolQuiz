@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOLQuiz</string>
+    <string name="mainHintText">enter text here</string>
+    <string name="hide">hide</string>
+    <string name="show">show</string>
+    <string name="createAcc">Create An Account</string>
+    <string name="contact">About | Contact</string>
+    <string name="facebookLogin">Login with facebook</string>
+    <string name="twitterLogin">Login with Twitter</string>
+</resources>

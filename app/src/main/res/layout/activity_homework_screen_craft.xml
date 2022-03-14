@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeworkScreenCraft"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/item0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="@id/horde1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/topline"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/item0"
+        app:layout_constraintStart_toStartOf="@id/horde2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="@id/topline"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/facebook"
+        android:text="LOGIN"
+        app:layout_constraintEnd_toEndOf="@id/horde2"
+        app:layout_constraintStart_toStartOf="@id/horde1"
+        app:layout_constraintTop_toTopOf="@id/topline"
+
+
+        tools:ignore="MissingConstraints" />
+
+
+
+    <EditText
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:hint=" @username "
+
+        android:textColorHint="@color/tweeter"
+        app:layout_constraintEnd_toEndOf="@id/horde2"
+        app:layout_constraintStart_toStartOf="@id/horde1"
+        app:layout_constraintTop_toBottomOf="@id/button1" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@color/white"
+        android:hint="password"
+
+        android:textColorHint="@color/tweeter"
+        app:layout_constraintEnd_toEndOf="@id/horde2"
+        app:layout_constraintStart_toStartOf="@id/horde1"
+        app:layout_constraintTop_toBottomOf="@id/login" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+
+        android:background="@color/tweeter"
+        android:text="GO"
+        app:layout_constraintEnd_toEndOf="@id/horde2"
+        app:layout_constraintStart_toStartOf="@id/horde1"
+        app:layout_constraintTop_toBottomOf="@id/password"
+
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.5"
+        android:scaleType="centerCrop"
+        android:src="@drawable/arrow"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="@id/midleline3"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:backgroundTint="@color/facebook"
+            android:text="@string/facebookLogin"
+
+            app:layout_constraintEnd_toEndOf="@id/horde4"
+            app:layout_constraintStart_toStartOf="@id/horde3"
+            app:layout_constraintTop_toTopOf="parent"
+
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/tweeter"
+            android:text="@string/twitterLogin"
+
+
+            app:layout_constraintEnd_toEndOf="@id/horde4"
+            app:layout_constraintStart_toStartOf="@id/horde3"
+            app:layout_constraintTop_toBottomOf="@id/button4"
+
+            tools:ignore="MissingConstraints" />
+
+
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/createAcc"
+            android:textSize="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button5" />
+
+        <View
+            android:id="@+id/line1"
+            android:layout_width="0dp"
+            android:layout_height="1sp"
+            android:layout_marginTop="20dp"
+            android:background="@color/grey"
+
+            app:layout_constraintEnd_toEndOf="@id/horde4"
+            app:layout_constraintStart_toStartOf="@id/horde3"
+            app:layout_constraintTop_toBottomOf="@id/text4" />
+
+        <TextView
+            android:id="@+id/text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/contact"
+            android:textSize="20sp"
+
+            app:layout_constraintEnd_toEndOf="@id/horde4"
+            app:layout_constraintStart_toStartOf="@id/horde3"
+            app:layout_constraintTop_toBottomOf="@+id/line1" />
+
+
+
+
+        <androidx.constraintlayout.widget.Guideline
+
+            android:id="@+id/horde4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.8" />
+
+        <androidx.constraintlayout.widget.Guideline
+
+            android:id="@+id/horde3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.2" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/topline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.12" />
+
+    <androidx.constraintlayout.widget.Guideline
+
+        android:id="@+id/midleline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.47" />
+
+
+    <androidx.constraintlayout.widget.Guideline
+
+        android:id="@+id/midleline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="@+id/button2" />
+
+    <androidx.constraintlayout.widget.Guideline
+
+        android:id="@+id/midleline3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <androidx.constraintlayout.widget.Guideline
+
+        android:id="@+id/horde1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.2" />
+
+    <androidx.constraintlayout.widget.Guideline
+
+        android:id="@+id/horde2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.8" />
+
+    <ImageView
+
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+
+
+        android:src="@drawable/drrow"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toTopOf="@id/midleline"
+
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
