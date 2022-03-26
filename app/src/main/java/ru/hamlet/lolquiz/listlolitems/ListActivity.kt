@@ -8,6 +8,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
+import android.widget.ProgressBar
 import androidx.core.widget.addTextChangedListener
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -41,11 +42,22 @@ class ListActivity : AppCompatActivity() {
 
         val clearButton = findViewById<ImageView>(R.id.clearSearch)
 
+
         viewModel.isClearButtonVisible.observe(this) { isVisible ->
             if (isVisible){
                 clearButton.visibility = View.VISIBLE
             }else{
                 clearButton.visibility = View.GONE
+            }
+        }
+
+        val progressBar = findViewById<ProgressBar>(R.id.progressBar)
+
+        viewModel.isProgressBarVisibleLiveData.observe(this){isVisible ->
+            if (isVisible){
+                progressBar.visibility = View.VISIBLE
+            }else{
+                progressBar.visibility = View.GONE
             }
         }
 
@@ -68,8 +80,5 @@ class ListActivity : AppCompatActivity() {
 
 
     }
-
-    //тут мог бы быть ваш гет лол айтемс
-
 
 }
