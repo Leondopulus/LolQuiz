@@ -19,7 +19,7 @@ class ListViewModel(val repository: LolItemsRepository): ViewModel() {
 
     fun onCreate() {
 
-        viewModelScope.launch {             //val launch = на всякий ссылку на курутину если нужно остановить
+        viewModelScope.launch {         //Test comment   //val launch = на всякий ссылку на курутину если нужно остановить
             //main
             isProgressBarVisibleLiveData.value = true
             val result = withContext(Dispatchers.IO) {
