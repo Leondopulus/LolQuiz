@@ -36,7 +36,7 @@ fun createRetrofit() : Retrofit{
 
     val retrofit = Retrofit.Builder()
         .addConverterFactory(GsonConverterFactory.create())
-        .baseUrl("http://5462-5-164-236-45.ngrok.io")
+        .baseUrl("http://c93c-5-166-192-37.ngrok.io")
         .client(httpClient)
         .build()
 

@@ -9,7 +9,10 @@
         <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/activity_homework_screen_craft.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/activity_list.xml" value="0.33" />
         <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/activity_quiz_game.xml" value="0.25" />
         <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/activity_second.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/content_quiz_game.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/fragment_second.xml" value="0.15433946130825138" />
         <entry key="..\:/AndroidStudioProjects/LOLQuiz/app/src/main/res/layout/lol_item_view.xml" value="0.33" />
       </map>
     </option>
