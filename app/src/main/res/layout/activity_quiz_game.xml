@@ -5,53 +5,26 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <Button
+        android:id="@+id/questOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/variantsItems" />
+
     <ImageView
         android:id="@+id/questImg"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_margin="10dp"
         android:src="@drawable/item0"
+        app:layout_constraintBottom_toTopOf="@id/blankItems"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toTopOf="@id/blankItems"
-        app:layout_constraintTop_toTopOf="parent"
-
-        tools:ignore="MissingConstraints" />
-
-    <LinearLayout
-        android:id="@+id/blankItems"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:paddingEnd="50dp"
-        android:paddingStart="50dp"
-
-        app:layout_constraintTop_toBottomOf="@id/questImg"
-        app:layout_constraintBottom_toTopOf="@id/variantsItems"
-        tools:ignore="MissingConstraints,NotSibling">
-
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_margin="3dp"
-            android:layout_weight="2"
-            android:src="@drawable/item0" />
-
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_margin="3dp"
-            android:layout_weight="2"
-            android:src="@drawable/item0" />
-
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_margin="3dp"
-            android:layout_weight="2"
-            android:src="@drawable/item0" />
-
-    </LinearLayout>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <LinearLayout
         android:id="@+id/variantsItems"
@@ -59,10 +32,8 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
 
-
-        app:layout_constraintTop_toBottomOf="@id/blankItems"
         app:layout_constraintBottom_toTopOf="@id/questOK"
-        tools:ignore="MissingConstraints,NotSibling">
+        app:layout_constraintTop_toBottomOf="@id/blankItems">
 
 
         <ImageView
@@ -102,15 +73,39 @@
 
     </LinearLayout>
 
-    <Button
-        android:id="@+id/questOK"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:id="@+id/blankItems"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="OK"
-        app:layout_constraintTop_toBottomOf="@id/variantsItems"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        android:orientation="horizontal"
+        android:paddingStart="50dp"
+        android:paddingEnd="50dp"
+
+        app:layout_constraintBottom_toTopOf="@id/variantsItems"
+        app:layout_constraintTop_toBottomOf="@id/questImg">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="3dp"
+            android:layout_weight="2"
+            android:src="@drawable/item0" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="3dp"
+            android:layout_weight="2"
+            android:src="@drawable/item0" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="3dp"
+            android:layout_weight="2"
+            android:src="@drawable/item0" />
+
+    </LinearLayout>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
