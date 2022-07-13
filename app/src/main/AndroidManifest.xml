@@ -11,22 +11,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LOLQuiz">
         <activity
-            android:name=".QuizGameActivity"
-            android:exported="false"
+            android:name=".quizgameactivity.QuizGameActivity"
+            android:exported="true"
             android:label="@string/title_activity_quiz_game"
-            android:theme="@style/Theme.LOLQuiz.NoActionBar" />
-        <activity
-            android:name=".listlolitems.ListActivity"
-            android:exported="true">
+            android:theme="@style/Theme.LOLQuiz.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<!--        <activity-->
+<!--            android:name=".quizgameactivity.QuizGameActivity"-->
+<!--            android:exported="true" />-->
+        <activity
+            android:name=".listlolitems.ListActivity"
+            android:exported="true"/>
         <activity
             android:name=".HomeworkScreenCraft"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".SecondActivity"
             android:exported="true" />

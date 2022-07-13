@@ -9,11 +9,12 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.create
 import ru.hamlet.lolquiz.listlolitems.*
+import ru.hamlet.lolquiz.quizgameactivity.QuizViewModel
 import java.util.concurrent.TimeUnit
 
 //тут регистрируем зависимости
 val repositoryModule = module {
-    single { LolItemsRepository(get(named("Smart")) ) }  //get это магическая ф только у koin, находит нужное по типу
+    single { LolItemsRepository(get(named("Cache")) ) }  //get это магическая ф только у koin, находит нужное по типу
     single { createRetrofit() }
     single { createLolItemsAPI(get()) }
     single<LolItemsService>(named("Retrofit")) { RetrofitLolItemService(get()) }
@@ -24,6 +25,7 @@ val repositoryModule = module {
 
 val uiModule = module {
     viewModel { ListViewModel(get()) }
+    viewModel { QuizViewModel(get())}
 }
 
 fun createRetrofit() : Retrofit{
