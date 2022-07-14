@@ -6,10 +6,10 @@
     android:layout_height="match_parent">
 
     <Button
-        android:tag=""
         android:id="@+id/okButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:tag=""
         android:text="OK"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -28,14 +28,13 @@
         app:layout_constraintTop_toTopOf="parent" />
 
 
-
     <LinearLayout
         android:id="@+id/variantsItems"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginRight="30dp"
         android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
 
         app:layout_constraintBottom_toTopOf="@id/variantsItems2"
         app:layout_constraintTop_toBottomOf="@id/blankItems">
@@ -44,45 +43,41 @@
             android:id="@+id/img0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
-            android:layout_weight="2"
-            />
+            android:layout_weight="1"
+            android:src="@drawable/item0" />
 
         <ImageButton
             android:id="@+id/img1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
-            android:layout_weight="2"
-            />
+            android:layout_weight="1"
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
-            android:layout_weight="2"
-            />
+            android:layout_weight="1"
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
-            android:layout_weight="2"
-            />
+            android:layout_weight="1"
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
-            android:layout_weight="2"
-            />
-
-
+            android:layout_weight="1"
+            android:src="@drawable/item0" />
 
     </LinearLayout>
 
@@ -90,9 +85,9 @@
         android:id="@+id/variantsItems2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginRight="30dp"
         android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:orientation="horizontal"
 
         app:layout_constraintBottom_toTopOf="@id/okButton"
         app:layout_constraintTop_toBottomOf="@id/variantsItems">
@@ -101,43 +96,41 @@
             android:id="@+id/img5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            />
+            android:src="@drawable/item0" />
 
         <ImageButton
             android:id="@+id/img6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            />
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            />
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            />
+            android:src="@drawable/item0" />
+
         <ImageButton
             android:id="@+id/img9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/item0"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            />
+            android:src="@drawable/item0" />
 
     </LinearLayout>
 
@@ -168,8 +161,8 @@
             android:layout_height="50dp"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            android:visibility="gone"
-            android:src="@drawable/frame" />
+            android:src="@drawable/frame"
+            android:visibility="gone" />
 
         <ImageView
             android:id="@+id/componentImg2"
@@ -177,8 +170,8 @@
             android:layout_height="50dp"
             android:layout_margin="3dp"
             android:layout_weight="2"
-            android:visibility="gone"
-            android:src="@drawable/frame" />
+            android:src="@drawable/frame"
+            android:visibility="gone" />
 
     </LinearLayout>
 
