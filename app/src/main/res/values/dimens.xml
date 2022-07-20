@@ -1,3 +1,4 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="base_lolitem_img_size">50dp</dimen>
 </resources>

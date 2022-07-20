@@ -14,6 +14,7 @@ import com.bumptech.glide.Glide
 import kotlinx.coroutines.launch
 import ru.hamlet.lolquiz.R
 import ru.hamlet.lolquiz.SlotsLiveData
+import ru.hamlet.lolquiz.TagID
 import java.lang.IllegalStateException
 
 
@@ -24,8 +25,8 @@ class QuizViewModel(val repository: LolItemsRepository) : ViewModel() {
     private var lolItems = listOf<LolItem>();
 
     var questItemLiveData = MutableLiveData<LolItem>()
-    var slotsLiveData = MutableLiveData<SlotsLiveData>()
-    var levelComponentVariantsLiveData = MutableLiveData<List<LolItem>>()
+    var slotsLiveData = MutableLiveData<List<LolItem?>>()
+    var levelComponentVariantsLiveData = MutableLiveData<List<LolItem?>>()
 
 
     ////////////////////////////////////
@@ -46,41 +47,52 @@ class QuizViewModel(val repository: LolItemsRepository) : ViewModel() {
         }
     }
 
+    fun onSlotDropped(tagID: TagID, slotIndex: Int) {
+        val slots = slotsLiveData.value?.toMutableList() ?: return
+        val variants = levelComponentVariantsLiveData.value?.toMutableList() ?: return
+
+        slots[slotIndex] = getLolItemOrNull(tagID.idLolItem)
+        variants[tagID.indexObject] = null
+
+        slotsLiveData.value = slots
+        levelComponentVariantsLiveData.value = variants
+    }
+
     fun onOkButtonClick() {
         //check if all slots are not empty// done
-        if(slotsLiveData.value != null && slotsLiveData.value!!.isNotEmpty()){
+        if (slotsLiveData.value != null ) {
             if (checkIsItemValid()) {
                 winMessage()
-                createNewQuizQuestion()
+
             } else {
                 loseMessage()
             }
         }
-    }
-    private fun winMessage(){
-
+        createNewQuizQuestion()
     }
 
-    private fun loseMessage(){
+    private fun winMessage() {
 
     }
 
+    private fun loseMessage() {
+
+    }
 
     private fun checkIsItemValid(): Boolean {
         // check slotsLiveData.value to validate is answer right or not!// done
         val questLolItem = questItemLiveData.value ?: return false
         val questItemsIdsList = mutableListOf<Int>()
-        val slotsList = slotsLiveData.value
+        val slotsList = slotsLiveData.value ?: return false
         val slotsIdsList = mutableListOf<Int>()
 
         for (i in questLolItem.lvl1Components.indices) {
             questItemsIdsList.add(questLolItem.lvl1Components[i])
         }
 
-        if (slotsList == null ) return false
-        if (slotsList.lolItems == null) return false
-        for (i in slotsList.lolItems!!.indices) {
-            slotsIdsList.add(slotsList.lolItems!![i].id)
+        for (i in slotsList.indices) {
+            val lolItem = slotsList[i] ?: return false
+            slotsIdsList.add(lolItem.id)
         }
 
 
@@ -101,20 +113,15 @@ class QuizViewModel(val repository: LolItemsRepository) : ViewModel() {
         val randomLolItem = getRandomItemWithComponents()
         questItemLiveData.value = randomLolItem
         levelComponentVariantsLiveData.value = generateQuestVariants(randomLolItem)
-//        cleanSlotsLiveData()
-        slotsLiveData.value?.clean()
+        slotsLiveData.value = MutableList(randomLolItem.lvl1Components.size){
+            null
+        }
     }
 
-//    private fun cleanSlotsLiveData(){
-//        slotsLiveData.value?.slot0 = null
-//        slotsLiveData.value?.slot1 = null
-//        slotsLiveData.value?.slot2 = null
-//        slotsLiveData.value?.lolItems = null
-//    }
 
     private fun generateQuestVariants(questItem: LolItem): List<LolItem> {
         val lvl1components = questItem.lvl1Components
-        Log.d(LOG_TAG, "lvl1components: $lvl1components")
+//        Log.d(LOG_TAG, "lvl1components: $lvl1components")
 
         val result = mutableListOf<LolItem>()
         for (componentId in lvl1components) {
@@ -127,7 +134,6 @@ class QuizViewModel(val repository: LolItemsRepository) : ViewModel() {
         val remainingCount = variantsCount - result.size
 
         for (i in 0 until remainingCount) {
-            //  add logic to respect 'isItemHasNoParents' //added 124nd string
             val randomItem = getRandomItem(excludingIds = listOf(questItem.id), true)
             result.add(randomItem)
         }
