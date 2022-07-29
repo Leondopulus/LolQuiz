@@ -5,5 +5,6 @@ data class LolItem(
     val name: String,
     val price: Int,
     val imageUrl: String,
+    val lvl1Components: List<Int>,
 ) {
 }

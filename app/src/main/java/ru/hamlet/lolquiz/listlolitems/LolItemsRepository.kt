@@ -27,10 +27,6 @@ class LolItemsRepository(
 //        return lolItems
 //    }
 
-
-
-
-
     suspend fun getSearch2(search: String): List<LolItem> {
         val lolItems = lolItemsService.getItems()?: listOf()
         val searchResult = mutableListOf<LolItem>()

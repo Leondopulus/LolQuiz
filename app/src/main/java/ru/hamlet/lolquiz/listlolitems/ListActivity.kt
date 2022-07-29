@@ -19,7 +19,6 @@ import ru.hamlet.lolquiz.R
 
 class ListActivity : AppCompatActivity() {
 
-
     val viewModel: ListViewModel by viewModel()
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -27,6 +26,7 @@ class ListActivity : AppCompatActivity() {
         setContentView(R.layout.activity_list)
 
         viewModel.onCreate()
+
 
         val rvMain = findViewById<RecyclerView>(R.id.rvMain)
         rvMain.layoutManager = LinearLayoutManager(this)
